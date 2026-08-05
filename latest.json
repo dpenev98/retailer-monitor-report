@@ -1,0 +1,51 @@
+{
+  "schema_version": 2,
+  "selected_scan": {
+    "scan_id": "2026-08-05T07-49-04.060371Z-471779d0490b428fba237d41c489fa59",
+    "started_at_utc": "2026-08-05T07:49:04.060371Z",
+    "finished_at_utc": "2026-08-05T07:49:05.269430Z",
+    "application_version": "0.1.0",
+    "application_commit": null,
+    "warnings": []
+  },
+  "summary": {
+    "result_state": "incomplete_no_offers",
+    "price_threshold_bgn": "1100.00",
+    "completed_retailer_count": 0,
+    "failed_retailer_count": 0,
+    "blocked_retailer_count": 2,
+    "accepted_offer_count": 0,
+    "cheapest_offer": null,
+    "offers_under_threshold": [],
+    "cheapest_ventus_2x_offer": null
+  },
+  "offers": [],
+  "retailers": [
+    {
+      "retailer_id": "ardes",
+      "retailer_name": "Ardes",
+      "status": "blocked",
+      "accepted_offer_count": 0,
+      "candidates_reviewed": 0,
+      "duration_seconds": "0.317612",
+      "failure_code": "blocked_browser_verification",
+      "failure_message": "Изпълняваме проверка за сигурност",
+      "last_successful_scan_at_utc": null,
+      "consecutive_comparable_failures": 0,
+      "needs_diagnosis": false
+    },
+    {
+      "retailer_id": "desktop",
+      "retailer_name": "Desktop.bg",
+      "status": "blocked",
+      "accepted_offer_count": 0,
+      "candidates_reviewed": 0,
+      "duration_seconds": "0.298454",
+      "failure_code": "blocked_access_denied",
+      "failure_message": "HTTP 403",
+      "last_successful_scan_at_utc": "2026-07-28T17:21:50.549223Z",
+      "consecutive_comparable_failures": 0,
+      "needs_diagnosis": false
+    }
+  ]
+}

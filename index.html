@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GPU Deal Monitor</title>
+    <style>
+      :root { color-scheme: light dark; font-family: system-ui, sans-serif; }
+      body { max-width: 76rem; margin: auto; padding: 1rem; line-height: 1.5; }
+      a { color: #1670c5; overflow-wrap: anywhere; }
+      .notice { padding: .8rem 1rem; border-left: .3rem solid #1670c5; background: #1670c51a; }
+      .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: .8rem; }
+      .card { border: 1px solid #8886; border-radius: .5rem; padding: .8rem; }
+      .table-wrap { overflow-x: auto; }
+      table { width: 100%; border-collapse: collapse; }
+      th, td { padding: .55rem; border-bottom: 1px solid #8886; text-align: left; vertical-align: top; }
+      th { white-space: nowrap; }
+      .number { text-align: right; white-space: nowrap; }
+      .status-completed { color: #08783e; }
+      .status-failed, .status-blocked { color: #b0441e; }
+      .diagnosis-needed { color: #b0441e; font-weight: 700; }
+      small { color: #666; }
+      @media (prefers-color-scheme: dark) { a { color: #74b9ff; } small { color: #bbb; } }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>GPU Deal Monitor</h1>
+      <p>
+        Scan <code>2026-08-05T07-49-04.060371Z-471779d0490b428fba237d41c489fa59</code><br>
+        Observed 2026-08-05 10:49:05 EEST (Europe/Sofia)
+      </p>
+      <p class="notice">No qualifying offers are shown, but scanning was incomplete; this is not a genuine no-offer result.</p>
+    </header>
+
+    <main>
+      <section aria-labelledby="highlights">
+        <h2 id="highlights">Highlights</h2>
+        <div class="cards">
+          <article class="card">
+            <h3>Cheapest offer</h3>
+            
+              <p>None found.</p>
+            
+          </article>
+          <article class="card">
+            <h3>Below 1 100,00 лв.</h3>
+            
+              <p>No qualifying offers are below the threshold.</p>
+            
+          </article>
+          <article class="card">
+            <h3>Cheapest MSI Ventus 2X</h3>
+            
+              <p>None found.</p>
+            
+          </article>
+        </div>
+      </section>
+
+      <section aria-labelledby="offers">
+        <h2 id="offers">Offers</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Retailer</th>
+                <th>Product</th>
+                <th class="number">Price</th>
+                <th>Availability</th>
+                <th>Ventus 2X</th>
+                <th>Observed</th>
+                <th class="number">Previous</th>
+                <th class="number">Historical minimum</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+                <tr><td colspan="8">No accepted offers.</td></tr>
+              
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section aria-labelledby="retailers">
+        <h2 id="retailers">Retailer status</h2>
+        <p>
+          Completed: 0;
+          failed: 0;
+          blocked: 2;
+          accepted offers: 0.
+        </p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Retailer</th>
+                <th>Retailer ID</th>
+                <th>Status</th>
+                <th class="number">Offers</th>
+                <th class="number">Candidates</th>
+                <th class="number">Duration</th>
+                <th>Failure</th>
+                <th>Last successful scan</th>
+                <th class="number">Comparable failures</th>
+                <th>Needs diagnosis</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td>Ardes</td>
+                  <td><code>ardes</code></td>
+                  <td class="status-blocked">blocked</td>
+                  <td class="number">0</td>
+                  <td class="number">0</td>
+                  <td class="number">0.317612 s</td>
+                  <td>
+                    blocked_browser_verification: Изпълняваме проверка за сигурност
+                  </td>
+                  <td>—</td>
+                  <td class="number">0</td>
+                  <td class="">
+                    No
+                  </td>
+                </tr>
+              
+                <tr>
+                  <td>Desktop.bg</td>
+                  <td><code>desktop</code></td>
+                  <td class="status-blocked">blocked</td>
+                  <td class="number">0</td>
+                  <td class="number">0</td>
+                  <td class="number">0.298454 s</td>
+                  <td>
+                    blocked_access_denied: HTTP 403
+                  </td>
+                  <td>2026-07-28 20:21:50 EEST (Europe/Sofia)</td>
+                  <td class="number">0</td>
+                  <td class="">
+                    No
+                  </td>
+                </tr>
+              
+            </tbody>
+          </table>
+        </div>
+        <p>
+          <small>
+            Comparable failures count consecutive failed scans with the same stable failure
+            signature. Completed or blocked scans reset the count; — means operational state
+            was unavailable.
+          </small>
+        </p>
+      </section>
+    </main>
+  </body>
+</html>
