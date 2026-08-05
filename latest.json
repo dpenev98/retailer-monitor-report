@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "selected_scan": {
-    "scan_id": "2026-08-05T15-54-22.982412Z-7e4de0d412864e4297290d3559ff988a",
-    "started_at_utc": "2026-08-05T15:54:22.982412Z",
-    "finished_at_utc": "2026-08-05T15:54:33.017997Z",
+    "scan_id": "2026-08-05T15-56-31.702951Z-3d2d07a5000f435aa2046ef98de8403b",
+    "started_at_utc": "2026-08-05T15:56:31.702951Z",
+    "finished_at_utc": "2026-08-05T15:56:40.970538Z",
     "application_version": "0.1.0",
     "application_commit": null,
     "warnings": []
@@ -27,14 +27,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T15:54:31.928728Z",
+      "observed_at_utc": "2026-08-05T15:56:39.816070Z",
       "history": {
-        "previous_price_bgn": null,
+        "previous_price_bgn": "1377.45",
         "historical_minimum_bgn": "1377.45",
         "first_observed_at_utc": "2026-08-05T15:54:31.928728Z",
-        "latest_observed_at_utc": "2026-08-05T15:54:31.928728Z",
+        "latest_observed_at_utc": "2026-08-05T15:56:39.816070Z",
         "latest_known_availability": "available",
-        "observation_count": 1
+        "observation_count": 2
       }
     },
     "offers_under_threshold": [],
@@ -50,14 +50,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-05T15:54:30.380933Z",
+      "observed_at_utc": "2026-08-05T15:56:38.622852Z",
       "history": {
         "previous_price_bgn": "1484.48",
         "historical_minimum_bgn": "1484.48",
         "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
-        "latest_observed_at_utc": "2026-08-05T15:54:30.380933Z",
+        "latest_observed_at_utc": "2026-08-05T15:56:38.622852Z",
         "latest_known_availability": "available",
-        "observation_count": 3
+        "observation_count": 4
       }
     }
   },
@@ -74,14 +74,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T15:54:31.928728Z",
+      "observed_at_utc": "2026-08-05T15:56:39.816070Z",
       "history": {
-        "previous_price_bgn": null,
+        "previous_price_bgn": "1377.45",
         "historical_minimum_bgn": "1377.45",
         "first_observed_at_utc": "2026-08-05T15:54:31.928728Z",
-        "latest_observed_at_utc": "2026-08-05T15:54:31.928728Z",
+        "latest_observed_at_utc": "2026-08-05T15:56:39.816070Z",
         "latest_known_availability": "available",
-        "observation_count": 1
+        "observation_count": 2
       }
     },
     {
@@ -96,14 +96,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T15:54:28.161241Z",
+      "observed_at_utc": "2026-08-05T15:56:37.224209Z",
       "history": {
         "previous_price_bgn": "1425.81",
         "historical_minimum_bgn": "1425.81",
         "first_observed_at_utc": "2026-08-05T13:15:26.274820Z",
-        "latest_observed_at_utc": "2026-08-05T15:54:28.161241Z",
+        "latest_observed_at_utc": "2026-08-05T15:56:37.224209Z",
         "latest_known_availability": "available",
-        "observation_count": 3
+        "observation_count": 4
       }
     },
     {
@@ -118,14 +118,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-05T15:54:30.380933Z",
+      "observed_at_utc": "2026-08-05T15:56:38.622852Z",
       "history": {
         "previous_price_bgn": "1484.48",
         "historical_minimum_bgn": "1484.48",
         "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
-        "latest_observed_at_utc": "2026-08-05T15:54:30.380933Z",
+        "latest_observed_at_utc": "2026-08-05T15:56:38.622852Z",
         "latest_known_availability": "available",
-        "observation_count": 3
+        "observation_count": 4
       }
     },
     {
@@ -140,14 +140,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T15:54:32.467886Z",
+      "observed_at_utc": "2026-08-05T15:56:40.365606Z",
       "history": {
-        "previous_price_bgn": null,
+        "previous_price_bgn": "1517.05",
         "historical_minimum_bgn": "1517.05",
         "first_observed_at_utc": "2026-08-05T15:54:32.467886Z",
-        "latest_observed_at_utc": "2026-08-05T15:54:32.467886Z",
+        "latest_observed_at_utc": "2026-08-05T15:56:40.365606Z",
         "latest_known_availability": "available",
-        "observation_count": 1
+        "observation_count": 2
       }
     },
     {
@@ -162,14 +162,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-05T15:54:32.932939Z",
+      "observed_at_utc": "2026-08-05T15:56:40.876526Z",
       "history": {
-        "previous_price_bgn": null,
+        "previous_price_bgn": "1520.69",
         "historical_minimum_bgn": "1520.69",
         "first_observed_at_utc": "2026-08-05T15:54:32.932939Z",
-        "latest_observed_at_utc": "2026-08-05T15:54:32.932939Z",
+        "latest_observed_at_utc": "2026-08-05T15:56:40.876526Z",
         "latest_known_availability": "available",
-        "observation_count": 1
+        "observation_count": 2
       }
     }
   ],
@@ -180,9 +180,9 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.229898",
-      "failure_code": "blocked_access_denied",
-      "failure_message": "HTTP 403",
+      "duration_seconds": "0.247719",
+      "failure_code": "blocked_browser_verification",
+      "failure_message": "Изпълняваме проверка за сигурност",
       "last_successful_scan_at_utc": null,
       "consecutive_comparable_failures": 0,
       "needs_diagnosis": false
@@ -193,7 +193,7 @@
       "status": "completed",
       "accepted_offer_count": 2,
       "candidates_reviewed": 2,
-      "duration_seconds": "6.826734",
+      "duration_seconds": "6.346286",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -206,7 +206,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "2.535887",
+      "duration_seconds": "2.233402",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
