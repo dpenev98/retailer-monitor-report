@@ -1,25 +1,112 @@
 {
   "schema_version": 2,
   "selected_scan": {
-    "scan_id": "2026-08-05T13-07-23.298143Z-e3e5bce04f654e6c8224a85eb57e7008",
-    "started_at_utc": "2026-08-05T13:07:23.298143Z",
-    "finished_at_utc": "2026-08-05T13:08:49.970418Z",
+    "scan_id": "2026-08-05T13-15-20.193530Z-6a1bf465c8bb4de99adc6b818adde786",
+    "started_at_utc": "2026-08-05T13:15:20.193530Z",
+    "finished_at_utc": "2026-08-05T13:15:27.787740Z",
     "application_version": "0.1.0",
     "application_commit": null,
     "warnings": []
   },
   "summary": {
-    "result_state": "incomplete_no_offers",
+    "result_state": "incomplete_with_offers",
     "price_threshold_bgn": "1100.00",
-    "completed_retailer_count": 0,
-    "failed_retailer_count": 1,
+    "completed_retailer_count": 1,
+    "failed_retailer_count": 0,
     "blocked_retailer_count": 1,
-    "accepted_offer_count": 0,
-    "cheapest_offer": null,
+    "accepted_offer_count": 2,
+    "cheapest_offer": {
+      "retailer_id": "desktop",
+      "retailer_name": "Desktop.bg",
+      "product_key": "desktop:sku:g506t-16s2cp",
+      "title": "MSI GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS",
+      "product_url": "https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_shadow_2x_oc_plus",
+      "sku": "G506T-16S2CP",
+      "price_bgn": "1425.81",
+      "raw_price": "729 €\n1425.81 лв.",
+      "availability": "available",
+      "raw_availability": "In stock",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-05T13:15:26.274820Z",
+      "history": {
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1425.81",
+        "first_observed_at_utc": "2026-08-05T13:15:26.274820Z",
+        "latest_observed_at_utc": "2026-08-05T13:15:26.274820Z",
+        "latest_known_availability": "available",
+        "observation_count": 1
+      }
+    },
     "offers_under_threshold": [],
-    "cheapest_ventus_2x_offer": null
+    "cheapest_ventus_2x_offer": {
+      "retailer_id": "desktop",
+      "retailer_name": "Desktop.bg",
+      "product_key": "desktop:sku:g506t-16v2cp",
+      "title": "MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
+      "product_url": "https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_ventus_2x_oc_plus",
+      "sku": "G506T-16V2CP",
+      "price_bgn": "1484.48",
+      "raw_price": "759 €\n1484.48 лв.",
+      "availability": "available",
+      "raw_availability": "In stock",
+      "is_ventus_2x": true,
+      "observed_at_utc": "2026-08-05T13:15:27.683115Z",
+      "history": {
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1484.48",
+        "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
+        "latest_observed_at_utc": "2026-08-05T13:15:27.683115Z",
+        "latest_known_availability": "available",
+        "observation_count": 1
+      }
+    }
   },
-  "offers": [],
+  "offers": [
+    {
+      "retailer_id": "desktop",
+      "retailer_name": "Desktop.bg",
+      "product_key": "desktop:sku:g506t-16s2cp",
+      "title": "MSI GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS",
+      "product_url": "https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_shadow_2x_oc_plus",
+      "sku": "G506T-16S2CP",
+      "price_bgn": "1425.81",
+      "raw_price": "729 €\n1425.81 лв.",
+      "availability": "available",
+      "raw_availability": "In stock",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-05T13:15:26.274820Z",
+      "history": {
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1425.81",
+        "first_observed_at_utc": "2026-08-05T13:15:26.274820Z",
+        "latest_observed_at_utc": "2026-08-05T13:15:26.274820Z",
+        "latest_known_availability": "available",
+        "observation_count": 1
+      }
+    },
+    {
+      "retailer_id": "desktop",
+      "retailer_name": "Desktop.bg",
+      "product_key": "desktop:sku:g506t-16v2cp",
+      "title": "MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
+      "product_url": "https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_ventus_2x_oc_plus",
+      "sku": "G506T-16V2CP",
+      "price_bgn": "1484.48",
+      "raw_price": "759 €\n1484.48 лв.",
+      "availability": "available",
+      "raw_availability": "In stock",
+      "is_ventus_2x": true,
+      "observed_at_utc": "2026-08-05T13:15:27.683115Z",
+      "history": {
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1484.48",
+        "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
+        "latest_observed_at_utc": "2026-08-05T13:15:27.683115Z",
+        "latest_known_availability": "available",
+        "observation_count": 1
+      }
+    }
+  ],
   "retailers": [
     {
       "retailer_id": "ardes",
@@ -27,9 +114,9 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "3.005738",
-      "failure_code": "blocked_access_denied",
-      "failure_message": "HTTP 403",
+      "duration_seconds": "0.412237",
+      "failure_code": "blocked_browser_verification",
+      "failure_message": "Изпълняваме проверка за сигурност",
       "last_successful_scan_at_utc": null,
       "consecutive_comparable_failures": 0,
       "needs_diagnosis": false
@@ -37,14 +124,14 @@
     {
       "retailer_id": "desktop",
       "retailer_name": "Desktop.bg",
-      "status": "failed",
-      "accepted_offer_count": 0,
-      "candidates_reviewed": 0,
-      "duration_seconds": "81.743032",
-      "failure_code": "navigation_timeout",
-      "failure_message": "navigation to 'https://desktop.bg/desktop_video_cards-all?price_btw_all=all&search%5Bprice_gte%5D=&search%5Bprice_lte%5D=760&search%5Bbrand_id_in%5D%5B%5D=1239602306&brand_name_id_in_all=all&search%5Bram_id_in%5D%5B%5D=10&videocard_size_id_in_all=all&warranty_size_btw_all=all&per_page=25&search%5Bs%5D=price_asc' failed after 2 attempts: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://desktop.bg/desktop_video_cards-all?price_btw_all=all&search%5Bprice_gte%5D=&search%5Bprice_lte%5D=760&search%5Bbrand_id_in%5D%5B%5D=1239602306&brand_name_id_in_all=all&search%5Bram_id_in%5D%5B%5D=10&videocard_size_id_in_all=all&warranty_size_btw_all=all&per_page=25&search%5Bs%5D=price_asc\", waiting until \"domcontentloaded\"\n",
+      "status": "completed",
+      "accepted_offer_count": 2,
+      "candidates_reviewed": 2,
+      "duration_seconds": "6.56441",
+      "failure_code": null,
+      "failure_message": null,
       "last_successful_scan_at_utc": null,
-      "consecutive_comparable_failures": 1,
+      "consecutive_comparable_failures": 0,
       "needs_diagnosis": false
     }
   ]

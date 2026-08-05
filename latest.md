@@ -1,16 +1,16 @@
 # GPU Deal Monitor
 
-Scan: `2026-08-05T13-07-23.298143Z-e3e5bce04f654e6c8224a85eb57e7008`
+Scan: `2026-08-05T13-15-20.193530Z-6a1bf465c8bb4de99adc6b818adde786`
 
-Observed: 2026-08-05 16:08:49 EEST (Europe/Sofia)
+Observed: 2026-08-05 16:15:27 EEST (Europe/Sofia)
 
-No qualifying offers are shown, but scanning was incomplete; this is not a genuine no-offer result.
+Offers are shown, but failed or blocked retailers make this scan incomplete.
 
 ## Highlights
 
-- Cheapest offer: None found.
+- Cheapest offer: [MSI GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS](https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_shadow_2x_oc_plus) — 1 425,81 лв. at Desktop.bg
 - Offers below 1 100,00 лв.: 0
-- Cheapest MSI Ventus 2X: None found.
+- Cheapest MSI Ventus 2X: [MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS](https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_ventus_2x_oc_plus) — 1 484,48 лв. at Desktop.bg
 
 No qualifying offers are below the threshold.
 
@@ -18,15 +18,16 @@ No qualifying offers are below the threshold.
 
 | Retailer | Product | Price | Raw price | Availability | Ventus 2X | Observed | Previous | Historical minimum |
 |---|---|---:|---|---|:---:|---|---:|---:|
-| — | No accepted offers | — | — | — | — | — | — | — |
+| Desktop.bg | [MSI GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS](https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_shadow_2x_oc_plus) | 1 425,81 лв. | 729 € 1425.81 лв. | available | No | 2026-08-05 16:15:26 EEST (Europe/Sofia) | — | 1 425,81 лв. |
+| Desktop.bg | [MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS](https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_ventus_2x_oc_plus) | 1 484,48 лв. | 759 € 1484.48 лв. | available | Yes | 2026-08-05 16:15:27 EEST (Europe/Sofia) | — | 1 484,48 лв. |
 
 ## Retailer status
 
-Completed: 0; failed: 1; blocked: 1; accepted offers: 0.
+Completed: 1; failed: 0; blocked: 1; accepted offers: 2.
 
 | Retailer | Retailer ID | Status | Offers | Candidates | Duration | Failure | Last successful scan | Comparable failures | Needs diagnosis |
 |---|---|---|---:|---:|---:|---|---|---:|:---:|
-| Ardes | `ardes` | blocked | 0 | 0 | 3.005738 s | blocked_access_denied: HTTP 403 | — | 0 | No |
-| Desktop.bg | `desktop` | failed | 0 | 0 | 81.743032 s | navigation_timeout: navigation to 'https://desktop.bg/desktop_video_cards-all?price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=760&amp;search%5Bbrand_id_in%5D%5B%5D=1239602306&amp;brand_name_id_in_all=all&amp;search%5Bram_id_in%5D%5B%5D=10&amp;videocard_size_id_in_all=all&amp;warranty_size_btw_all=all&amp;per_page=25&amp;search%5Bs%5D=price_asc' failed after 2 attempts: TimeoutError: Page.goto: Timeout 30000ms exceeded. Call log:   - navigating to "https://desktop.bg/desktop_video_cards-all?price_btw_all=all&amp;search%5Bprice_gte%5D=&amp;search%5Bprice_lte%5D=760&amp;search%5Bbrand_id_in%5D%5B%5D=1239602306&amp;brand_name_id_in_all=all&amp;search%5Bram_id_in%5D%5B%5D=10&amp;videocard_size_id_in_all=all&amp;warranty_size_btw_all=all&amp;per_page=25&amp;search%5Bs%5D=price_asc", waiting until "domcontentloaded"  | — | 1 | No |
+| Ardes | `ardes` | blocked | 0 | 0 | 0.412237 s | blocked_browser_verification: Изпълняваме проверка за сигурност | — | 0 | No |
+| Desktop.bg | `desktop` | completed | 2 | 2 | 6.56441 s | — | — | 0 | No |
 
 Comparable failures count consecutive failed scans with the same stable failure signature. Completed or blocked scans reset the count; — means operational state was unavailable.
