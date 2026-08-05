@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "selected_scan": {
-    "scan_id": "2026-08-05T15-56-31.702951Z-3d2d07a5000f435aa2046ef98de8403b",
-    "started_at_utc": "2026-08-05T15:56:31.702951Z",
-    "finished_at_utc": "2026-08-05T15:56:40.970538Z",
+    "scan_id": "2026-08-05T18-19-41.573487Z-05b57f07346744c6811d09b83963bfca",
+    "started_at_utc": "2026-08-05T18:19:41.573487Z",
+    "finished_at_utc": "2026-08-05T18:20:11.059943Z",
     "application_version": "0.1.0",
     "application_commit": null,
     "warnings": []
@@ -11,10 +11,10 @@
   "summary": {
     "result_state": "incomplete_with_offers",
     "price_threshold_bgn": "1100.00",
-    "completed_retailer_count": 2,
+    "completed_retailer_count": 3,
     "failed_retailer_count": 0,
     "blocked_retailer_count": 1,
-    "accepted_offer_count": 5,
+    "accepted_offer_count": 8,
     "cheapest_offer": {
       "retailer_id": "jar",
       "retailer_name": "JAR Computers",
@@ -27,14 +27,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T15:56:39.816070Z",
+      "observed_at_utc": "2026-08-05T18:20:09.872422Z",
       "history": {
         "previous_price_bgn": "1377.45",
         "historical_minimum_bgn": "1377.45",
         "first_observed_at_utc": "2026-08-05T15:54:31.928728Z",
-        "latest_observed_at_utc": "2026-08-05T15:56:39.816070Z",
+        "latest_observed_at_utc": "2026-08-05T18:20:09.872422Z",
         "latest_known_availability": "available",
-        "observation_count": 2
+        "observation_count": 3
       }
     },
     "offers_under_threshold": [],
@@ -50,14 +50,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-05T15:56:38.622852Z",
+      "observed_at_utc": "2026-08-05T18:20:08.646645Z",
       "history": {
         "previous_price_bgn": "1484.48",
         "historical_minimum_bgn": "1484.48",
         "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
-        "latest_observed_at_utc": "2026-08-05T15:56:38.622852Z",
+        "latest_observed_at_utc": "2026-08-05T18:20:08.646645Z",
         "latest_known_availability": "available",
-        "observation_count": 4
+        "observation_count": 5
       }
     }
   },
@@ -74,14 +74,36 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T15:56:39.816070Z",
+      "observed_at_utc": "2026-08-05T18:20:09.872422Z",
       "history": {
         "previous_price_bgn": "1377.45",
         "historical_minimum_bgn": "1377.45",
         "first_observed_at_utc": "2026-08-05T15:54:31.928728Z",
-        "latest_observed_at_utc": "2026-08-05T15:56:39.816070Z",
+        "latest_observed_at_utc": "2026-08-05T18:20:09.872422Z",
         "latest_known_availability": "available",
-        "observation_count": 2
+        "observation_count": 3
+      }
+    },
+    {
+      "retailer_id": "datacom",
+      "retailer_name": "Datacom",
+      "product_key": "datacom:sku:90yv0mh0-m0na00",
+      "title": "Видео карта ASUS DUAL RTX 5060 TI OC 16GB GDDR7",
+      "product_url": "https://shop.datacom.bg/product_info.php/grafichni-karti-90yv0mh0-m0na00-video-karta-asus-dual-rtx-5060-ti-oc-16gb-gddr7-p-146154",
+      "sku": "90YV0MH0-M0NA00",
+      "price_bgn": "1425.80",
+      "raw_price": "Цена с ДДС:  1425.80лв.",
+      "availability": "available",
+      "raw_availability": "на склад\nIn stock",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-05T18:19:50.120387Z",
+      "history": {
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1425.80",
+        "first_observed_at_utc": "2026-08-05T18:19:50.120387Z",
+        "latest_observed_at_utc": "2026-08-05T18:19:50.120387Z",
+        "latest_known_availability": "available",
+        "observation_count": 1
       }
     },
     {
@@ -96,14 +118,58 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T15:56:37.224209Z",
+      "observed_at_utc": "2026-08-05T18:20:07.192522Z",
       "history": {
         "previous_price_bgn": "1425.81",
         "historical_minimum_bgn": "1425.81",
         "first_observed_at_utc": "2026-08-05T13:15:26.274820Z",
-        "latest_observed_at_utc": "2026-08-05T15:56:37.224209Z",
+        "latest_observed_at_utc": "2026-08-05T18:20:07.192522Z",
         "latest_known_availability": "available",
-        "observation_count": 4
+        "observation_count": 5
+      }
+    },
+    {
+      "retailer_id": "datacom",
+      "retailer_name": "Datacom",
+      "product_key": "datacom:sku:912-v535-003",
+      "title": "MSI RTX5060TI 16 SHADOW 2X OC+",
+      "product_url": "https://shop.datacom.bg/product_info.php/grafichni-karti-912-v535-003-msi-rtx5060ti-16-shadow-2x-oc-p-146169",
+      "sku": "912-V535-003",
+      "price_bgn": "1449.27",
+      "raw_price": "Цена с ДДС:  1449.27лв.",
+      "availability": "available",
+      "raw_availability": "на склад\nIn stock",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-05T18:19:52.479407Z",
+      "history": {
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1449.27",
+        "first_observed_at_utc": "2026-08-05T18:19:52.479407Z",
+        "latest_observed_at_utc": "2026-08-05T18:19:52.479407Z",
+        "latest_known_availability": "available",
+        "observation_count": 1
+      }
+    },
+    {
+      "retailer_id": "datacom",
+      "retailer_name": "Datacom",
+      "product_key": "datacom:sku:912-v535-005",
+      "title": "MSI RTX5060TI 16 VENTU 2X OC +",
+      "product_url": "https://shop.datacom.bg/product_info.php/grafichni-karti-912-v535-005-msi-rtx5060ti-16-ventu-2x-oc-p-146002",
+      "sku": "912-V535-005",
+      "price_bgn": "1484.47",
+      "raw_price": "Цена с ДДС:  1484.47лв.",
+      "availability": "available",
+      "raw_availability": "на склад\nIn stock",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-05T18:19:54.811925Z",
+      "history": {
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1484.47",
+        "first_observed_at_utc": "2026-08-05T18:19:54.811925Z",
+        "latest_observed_at_utc": "2026-08-05T18:19:54.811925Z",
+        "latest_known_availability": "available",
+        "observation_count": 1
       }
     },
     {
@@ -118,14 +184,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-05T15:56:38.622852Z",
+      "observed_at_utc": "2026-08-05T18:20:08.646645Z",
       "history": {
         "previous_price_bgn": "1484.48",
         "historical_minimum_bgn": "1484.48",
         "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
-        "latest_observed_at_utc": "2026-08-05T15:56:38.622852Z",
+        "latest_observed_at_utc": "2026-08-05T18:20:08.646645Z",
         "latest_known_availability": "available",
-        "observation_count": 4
+        "observation_count": 5
       }
     },
     {
@@ -140,14 +206,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T15:56:40.365606Z",
+      "observed_at_utc": "2026-08-05T18:20:10.445477Z",
       "history": {
         "previous_price_bgn": "1517.05",
         "historical_minimum_bgn": "1517.05",
         "first_observed_at_utc": "2026-08-05T15:54:32.467886Z",
-        "latest_observed_at_utc": "2026-08-05T15:56:40.365606Z",
+        "latest_observed_at_utc": "2026-08-05T18:20:10.445477Z",
         "latest_known_availability": "available",
-        "observation_count": 2
+        "observation_count": 3
       }
     },
     {
@@ -162,14 +228,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-05T15:56:40.876526Z",
+      "observed_at_utc": "2026-08-05T18:20:10.976258Z",
       "history": {
         "previous_price_bgn": "1520.69",
         "historical_minimum_bgn": "1520.69",
         "first_observed_at_utc": "2026-08-05T15:54:32.932939Z",
-        "latest_observed_at_utc": "2026-08-05T15:56:40.876526Z",
+        "latest_observed_at_utc": "2026-08-05T18:20:10.976258Z",
         "latest_known_availability": "available",
-        "observation_count": 2
+        "observation_count": 3
       }
     }
   ],
@@ -180,9 +246,22 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.247719",
-      "failure_code": "blocked_browser_verification",
-      "failure_message": "Изпълняваме проверка за сигурност",
+      "duration_seconds": "0.255769",
+      "failure_code": "blocked_access_denied",
+      "failure_message": "HTTP 403",
+      "last_successful_scan_at_utc": null,
+      "consecutive_comparable_failures": 0,
+      "needs_diagnosis": false
+    },
+    {
+      "retailer_id": "datacom",
+      "retailer_name": "Datacom",
+      "status": "completed",
+      "accepted_offer_count": 3,
+      "candidates_reviewed": 6,
+      "duration_seconds": "18.352143",
+      "failure_code": null,
+      "failure_message": null,
       "last_successful_scan_at_utc": null,
       "consecutive_comparable_failures": 0,
       "needs_diagnosis": false
@@ -193,7 +272,7 @@
       "status": "completed",
       "accepted_offer_count": 2,
       "candidates_reviewed": 2,
-      "duration_seconds": "6.346286",
+      "duration_seconds": "7.073667",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -206,7 +285,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "2.233402",
+      "duration_seconds": "2.312113",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
