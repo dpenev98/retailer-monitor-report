@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "selected_scan": {
-    "scan_id": "2026-08-05T18-48-08.809719Z-4d30ae71a10d482fad09083a6c5995bd",
-    "started_at_utc": "2026-08-05T18:48:08.809719Z",
-    "finished_at_utc": "2026-08-05T18:48:42.331906Z",
+    "scan_id": "2026-08-05T20-01-32.357192Z-8a3d3e8d07a044ffb4b1e20aadfd4ae8",
+    "started_at_utc": "2026-08-05T20:01:32.357192Z",
+    "finished_at_utc": "2026-08-05T20:02:17.629067Z",
     "application_version": "0.1.0",
     "application_commit": null,
     "warnings": []
@@ -11,30 +11,30 @@
   "summary": {
     "result_state": "incomplete_with_offers",
     "price_threshold_bgn": "1100.00",
-    "completed_retailer_count": 3,
+    "completed_retailer_count": 4,
     "failed_retailer_count": 0,
     "blocked_retailer_count": 1,
-    "accepted_offer_count": 8,
+    "accepted_offer_count": 10,
     "cheapest_offer": {
-      "retailer_id": "jar",
-      "retailer_name": "JAR Computers",
-      "product_key": "jar:sku:vcrasus90yv0mh0m0na00",
-      "title": "Видео карта Nvidia GF RTX 5060 Ti, 16GB, Asus Dual, OC, PCI-E 5.0, GDDR7, 128-bit, DisplayPort, HDMI",
-      "product_url": "https://www.jarcomputers.com/video-karta-asus-dual-rtx-5060-ti-oc-16gb-gddr7-prod-vcrasus90yv0mh0m0na00.html",
-      "sku": "VCRASUS90YV0MH0M0NA00",
-      "price_bgn": "1377.45",
-      "raw_price": "1377.45 лв",
+      "retailer_id": "plesio",
+      "retailer_name": "Plesio",
+      "product_key": "plesio:sku:4770692",
+      "title": "Asus VGA GeForce RTX 5060 Ti DUAL OC 16 GB",
+      "product_url": "https://plesio.bg/grafichni-karti-c-69977735/asus-vga-geforce-rtx-5060-ti-dual-oc-16-gb-p-382863.html",
+      "sku": "4770692",
+      "price_bgn": "1367.13",
+      "raw_price": "699.00 €\n1367.13 лв.",
       "availability": "available",
-      "raw_availability": "In stock",
+      "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T18:48:40.748589Z",
+      "observed_at_utc": "2026-08-05T20:02:13.488200Z",
       "history": {
-        "previous_price_bgn": "1377.45",
-        "historical_minimum_bgn": "1377.45",
-        "first_observed_at_utc": "2026-08-05T15:54:31.928728Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:40.748589Z",
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1367.13",
+        "first_observed_at_utc": "2026-08-05T20:02:13.488200Z",
+        "latest_observed_at_utc": "2026-08-05T20:02:13.488200Z",
         "latest_known_availability": "available",
-        "observation_count": 4
+        "observation_count": 1
       }
     },
     "offers_under_threshold": [],
@@ -50,18 +50,40 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-05T18:48:38.962050Z",
+      "observed_at_utc": "2026-08-05T20:01:58.889753Z",
       "history": {
         "previous_price_bgn": "1484.48",
         "historical_minimum_bgn": "1484.48",
         "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:38.962050Z",
+        "latest_observed_at_utc": "2026-08-05T20:01:58.889753Z",
         "latest_known_availability": "available",
-        "observation_count": 6
+        "observation_count": 7
       }
     }
   },
   "offers": [
+    {
+      "retailer_id": "plesio",
+      "retailer_name": "Plesio",
+      "product_key": "plesio:sku:4770692",
+      "title": "Asus VGA GeForce RTX 5060 Ti DUAL OC 16 GB",
+      "product_url": "https://plesio.bg/grafichni-karti-c-69977735/asus-vga-geforce-rtx-5060-ti-dual-oc-16-gb-p-382863.html",
+      "sku": "4770692",
+      "price_bgn": "1367.13",
+      "raw_price": "699.00 €\n1367.13 лв.",
+      "availability": "available",
+      "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-05T20:02:13.488200Z",
+      "history": {
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1367.13",
+        "first_observed_at_utc": "2026-08-05T20:02:13.488200Z",
+        "latest_observed_at_utc": "2026-08-05T20:02:13.488200Z",
+        "latest_known_availability": "available",
+        "observation_count": 1
+      }
+    },
     {
       "retailer_id": "jar",
       "retailer_name": "JAR Computers",
@@ -74,14 +96,36 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T18:48:40.748589Z",
+      "observed_at_utc": "2026-08-05T20:02:00.095423Z",
       "history": {
         "previous_price_bgn": "1377.45",
         "historical_minimum_bgn": "1377.45",
         "first_observed_at_utc": "2026-08-05T15:54:31.928728Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:40.748589Z",
+        "latest_observed_at_utc": "2026-08-05T20:02:00.095423Z",
         "latest_known_availability": "available",
-        "observation_count": 4
+        "observation_count": 5
+      }
+    },
+    {
+      "retailer_id": "plesio",
+      "retailer_name": "Plesio",
+      "product_key": "plesio:sku:4824016",
+      "title": "Asus VGA GeForce RTX 5060 Ti PRIME OC 16 GB",
+      "product_url": "https://plesio.bg/grafichni-karti-c-69977735/asus-vga-geforce-rtx-5060-ti-prime-oc-16-gb-p-386862.html",
+      "sku": "4824016",
+      "price_bgn": "1406.24",
+      "raw_price": "719.00 €\n1406.24 лв.",
+      "availability": "available",
+      "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-05T20:02:09.250825Z",
+      "history": {
+        "previous_price_bgn": null,
+        "historical_minimum_bgn": "1406.24",
+        "first_observed_at_utc": "2026-08-05T20:02:09.250825Z",
+        "latest_observed_at_utc": "2026-08-05T20:02:09.250825Z",
+        "latest_known_availability": "available",
+        "observation_count": 1
       }
     },
     {
@@ -96,14 +140,14 @@
       "availability": "available",
       "raw_availability": "на склад\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T18:48:19.449993Z",
+      "observed_at_utc": "2026-08-05T20:01:42.484779Z",
       "history": {
         "previous_price_bgn": "1425.80",
         "historical_minimum_bgn": "1425.80",
         "first_observed_at_utc": "2026-08-05T18:19:50.120387Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:19.449993Z",
+        "latest_observed_at_utc": "2026-08-05T20:01:42.484779Z",
         "latest_known_availability": "available",
-        "observation_count": 2
+        "observation_count": 3
       }
     },
     {
@@ -118,14 +162,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T18:48:37.151269Z",
+      "observed_at_utc": "2026-08-05T20:01:57.673037Z",
       "history": {
         "previous_price_bgn": "1425.81",
         "historical_minimum_bgn": "1425.81",
         "first_observed_at_utc": "2026-08-05T13:15:26.274820Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:37.151269Z",
+        "latest_observed_at_utc": "2026-08-05T20:01:57.673037Z",
         "latest_known_availability": "available",
-        "observation_count": 6
+        "observation_count": 7
       }
     },
     {
@@ -140,14 +184,14 @@
       "availability": "available",
       "raw_availability": "на склад\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T18:48:21.932453Z",
+      "observed_at_utc": "2026-08-05T20:01:44.760659Z",
       "history": {
         "previous_price_bgn": "1449.27",
         "historical_minimum_bgn": "1449.27",
         "first_observed_at_utc": "2026-08-05T18:19:52.479407Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:21.932453Z",
+        "latest_observed_at_utc": "2026-08-05T20:01:44.760659Z",
         "latest_known_availability": "available",
-        "observation_count": 2
+        "observation_count": 3
       }
     },
     {
@@ -162,14 +206,14 @@
       "availability": "available",
       "raw_availability": "на склад\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T18:48:24.583525Z",
+      "observed_at_utc": "2026-08-05T20:01:47.071500Z",
       "history": {
         "previous_price_bgn": "1484.47",
         "historical_minimum_bgn": "1484.47",
         "first_observed_at_utc": "2026-08-05T18:19:54.811925Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:24.583525Z",
+        "latest_observed_at_utc": "2026-08-05T20:01:47.071500Z",
         "latest_known_availability": "available",
-        "observation_count": 2
+        "observation_count": 3
       }
     },
     {
@@ -184,14 +228,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-05T18:48:38.962050Z",
+      "observed_at_utc": "2026-08-05T20:01:58.889753Z",
       "history": {
         "previous_price_bgn": "1484.48",
         "historical_minimum_bgn": "1484.48",
         "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:38.962050Z",
+        "latest_observed_at_utc": "2026-08-05T20:01:58.889753Z",
         "latest_known_availability": "available",
-        "observation_count": 6
+        "observation_count": 7
       }
     },
     {
@@ -206,14 +250,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-05T18:48:41.486485Z",
+      "observed_at_utc": "2026-08-05T20:02:00.639264Z",
       "history": {
         "previous_price_bgn": "1517.05",
         "historical_minimum_bgn": "1517.05",
         "first_observed_at_utc": "2026-08-05T15:54:32.467886Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:41.486485Z",
+        "latest_observed_at_utc": "2026-08-05T20:02:00.639264Z",
         "latest_known_availability": "available",
-        "observation_count": 4
+        "observation_count": 5
       }
     },
     {
@@ -228,14 +272,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-05T18:48:42.233710Z",
+      "observed_at_utc": "2026-08-05T20:02:01.133808Z",
       "history": {
         "previous_price_bgn": "1520.69",
         "historical_minimum_bgn": "1520.69",
         "first_observed_at_utc": "2026-08-05T15:54:32.932939Z",
-        "latest_observed_at_utc": "2026-08-05T18:48:42.233710Z",
+        "latest_observed_at_utc": "2026-08-05T20:02:01.133808Z",
         "latest_known_availability": "available",
-        "observation_count": 4
+        "observation_count": 5
       }
     }
   ],
@@ -246,7 +290,7 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "2.999674",
+      "duration_seconds": "2.931544",
       "failure_code": "blocked_access_denied",
       "failure_message": "HTTP 403",
       "last_successful_scan_at_utc": null,
@@ -259,7 +303,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 6,
-      "duration_seconds": "19.799843",
+      "duration_seconds": "18.20027",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -272,7 +316,7 @@
       "status": "completed",
       "accepted_offer_count": 2,
       "candidates_reviewed": 2,
-      "duration_seconds": "6.928162",
+      "duration_seconds": "5.06496",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -285,7 +329,20 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "3.252598",
+      "duration_seconds": "2.224017",
+      "failure_code": null,
+      "failure_message": null,
+      "last_successful_scan_at_utc": null,
+      "consecutive_comparable_failures": 0,
+      "needs_diagnosis": false
+    },
+    {
+      "retailer_id": "plesio",
+      "retailer_name": "Plesio",
+      "status": "completed",
+      "accepted_offer_count": 2,
+      "candidates_reviewed": 3,
+      "duration_seconds": "16.376972",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
