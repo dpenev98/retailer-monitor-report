@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "selected_scan": {
-    "scan_id": "2026-08-05T07-49-04.060371Z-471779d0490b428fba237d41c489fa59",
-    "started_at_utc": "2026-08-05T07:49:04.060371Z",
-    "finished_at_utc": "2026-08-05T07:49:05.269430Z",
+    "scan_id": "2026-08-05T13-07-23.298143Z-e3e5bce04f654e6c8224a85eb57e7008",
+    "started_at_utc": "2026-08-05T13:07:23.298143Z",
+    "finished_at_utc": "2026-08-05T13:08:49.970418Z",
     "application_version": "0.1.0",
     "application_commit": null,
     "warnings": []
@@ -12,8 +12,8 @@
     "result_state": "incomplete_no_offers",
     "price_threshold_bgn": "1100.00",
     "completed_retailer_count": 0,
-    "failed_retailer_count": 0,
-    "blocked_retailer_count": 2,
+    "failed_retailer_count": 1,
+    "blocked_retailer_count": 1,
     "accepted_offer_count": 0,
     "cheapest_offer": null,
     "offers_under_threshold": [],
@@ -27,9 +27,9 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.317612",
-      "failure_code": "blocked_browser_verification",
-      "failure_message": "Изпълняваме проверка за сигурност",
+      "duration_seconds": "3.005738",
+      "failure_code": "blocked_access_denied",
+      "failure_message": "HTTP 403",
       "last_successful_scan_at_utc": null,
       "consecutive_comparable_failures": 0,
       "needs_diagnosis": false
@@ -37,14 +37,14 @@
     {
       "retailer_id": "desktop",
       "retailer_name": "Desktop.bg",
-      "status": "blocked",
+      "status": "failed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.298454",
-      "failure_code": "blocked_access_denied",
-      "failure_message": "HTTP 403",
-      "last_successful_scan_at_utc": "2026-07-28T17:21:50.549223Z",
-      "consecutive_comparable_failures": 0,
+      "duration_seconds": "81.743032",
+      "failure_code": "navigation_timeout",
+      "failure_message": "navigation to 'https://desktop.bg/desktop_video_cards-all?price_btw_all=all&search%5Bprice_gte%5D=&search%5Bprice_lte%5D=760&search%5Bbrand_id_in%5D%5B%5D=1239602306&brand_name_id_in_all=all&search%5Bram_id_in%5D%5B%5D=10&videocard_size_id_in_all=all&warranty_size_btw_all=all&per_page=25&search%5Bs%5D=price_asc' failed after 2 attempts: TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://desktop.bg/desktop_video_cards-all?price_btw_all=all&search%5Bprice_gte%5D=&search%5Bprice_lte%5D=760&search%5Bbrand_id_in%5D%5B%5D=1239602306&brand_name_id_in_all=all&search%5Bram_id_in%5D%5B%5D=10&videocard_size_id_in_all=all&warranty_size_btw_all=all&per_page=25&search%5Bs%5D=price_asc\", waiting until \"domcontentloaded\"\n",
+      "last_successful_scan_at_utc": null,
+      "consecutive_comparable_failures": 1,
       "needs_diagnosis": false
     }
   ]
