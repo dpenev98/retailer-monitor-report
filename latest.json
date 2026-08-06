@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "selected_scan": {
-    "scan_id": "2026-08-06T12-55-22.729644Z-e534224b87274c43be05d564e8815963",
-    "started_at_utc": "2026-08-06T12:55:22.729644Z",
-    "finished_at_utc": "2026-08-06T12:57:26.281080Z",
+    "scan_id": "2026-08-06T18-40-05.319751Z-85cf4533ee1843a4a107c0e4d68a8947",
+    "started_at_utc": "2026-08-06T18:40:05.319751Z",
+    "finished_at_utc": "2026-08-06T18:41:15.486412Z",
     "application_version": "0.1.0",
     "application_commit": null,
     "warnings": []
@@ -14,27 +14,27 @@
     "completed_retailer_count": 8,
     "failed_retailer_count": 0,
     "blocked_retailer_count": 1,
-    "accepted_offer_count": 19,
+    "accepted_offer_count": 16,
     "cheapest_offer": {
-      "retailer_id": "cybertrade",
-      "retailer_name": "Cybertrade",
-      "product_key": "cybertrade:sku:81546",
-      "title": "Видео карта ASUS Dual GeForce RTX 5060 Ti 16GB GDDR7 OC Edition",
-      "product_url": "https://cybertrade.bg/hardware/graphics-cards/asus-dual-geforce-rtx-5060-ti-16gb-oc-90yv0mh0-m0na00-81546",
-      "sku": "81546",
-      "price_bgn": "1349.29",
-      "raw_price": "689,88 € | 1 349,29 лв.",
+      "retailer_id": "plesio",
+      "retailer_name": "Plesio",
+      "product_key": "plesio:sku:4770692",
+      "title": "Asus VGA GeForce RTX 5060 Ti DUAL OC 16 GB",
+      "product_url": "https://plesio.bg/grafichni-karti-c-69977735/asus-vga-geforce-rtx-5060-ti-dual-oc-16-gb-p-382863.html",
+      "sku": "4770692",
+      "price_bgn": "1367.13",
+      "raw_price": "699.00 €\n1367.13 лв.",
       "availability": "available",
-      "raw_availability": "Цена: 689,88 € | 1 349,29 лв.\n На склад Код: 81546\nInStock",
+      "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:55:27.890379Z",
+      "observed_at_utc": "2026-08-06T18:41:11.336465Z",
       "history": {
-        "previous_price_bgn": "1349.29",
-        "historical_minimum_bgn": "1349.29",
-        "first_observed_at_utc": "2026-08-06T09:40:06.343055Z",
-        "latest_observed_at_utc": "2026-08-06T12:55:27.890379Z",
+        "previous_price_bgn": "1367.13",
+        "historical_minimum_bgn": "1367.13",
+        "first_observed_at_utc": "2026-08-05T20:02:13.488200Z",
+        "latest_observed_at_utc": "2026-08-06T18:41:11.336465Z",
         "latest_known_availability": "available",
-        "observation_count": 3
+        "observation_count": 9
       }
     },
     "offers_under_threshold": [],
@@ -45,45 +45,23 @@
       "title": "MSI NVIDIA GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
       "product_url": "https://cybertrade.bg/hardware/graphics-cards/msi-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus-912-v535-005-81433",
       "sku": "81433",
-      "price_bgn": "1446.69",
-      "raw_price": "739,68 € | 1 446,69 лв.",
+      "price_bgn": "1446.92",
+      "raw_price": "739,80 € | 1 446,92 лв.",
       "availability": "available",
-      "raw_availability": "Цена: 739,68 € | 1 446,69 лв.\n На склад Код: 81433\nInStock",
+      "raw_availability": "Цена: 739,80 € | 1 446,92 лв.\n На склад Код: 81433\nInStock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-06T12:55:28.718582Z",
+      "observed_at_utc": "2026-08-06T18:40:10.858180Z",
       "history": {
-        "previous_price_bgn": "1447.16",
+        "previous_price_bgn": "1446.69",
         "historical_minimum_bgn": "1446.69",
         "first_observed_at_utc": "2026-08-06T09:40:06.863400Z",
-        "latest_observed_at_utc": "2026-08-06T12:55:28.718582Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:10.858180Z",
         "latest_known_availability": "available",
-        "observation_count": 3
+        "observation_count": 5
       }
     }
   },
   "offers": [
-    {
-      "retailer_id": "cybertrade",
-      "retailer_name": "Cybertrade",
-      "product_key": "cybertrade:sku:81546",
-      "title": "Видео карта ASUS Dual GeForce RTX 5060 Ti 16GB GDDR7 OC Edition",
-      "product_url": "https://cybertrade.bg/hardware/graphics-cards/asus-dual-geforce-rtx-5060-ti-16gb-oc-90yv0mh0-m0na00-81546",
-      "sku": "81546",
-      "price_bgn": "1349.29",
-      "raw_price": "689,88 € | 1 349,29 лв.",
-      "availability": "available",
-      "raw_availability": "Цена: 689,88 € | 1 349,29 лв.\n На склад Код: 81546\nInStock",
-      "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:55:27.890379Z",
-      "history": {
-        "previous_price_bgn": "1349.29",
-        "historical_minimum_bgn": "1349.29",
-        "first_observed_at_utc": "2026-08-06T09:40:06.343055Z",
-        "latest_observed_at_utc": "2026-08-06T12:55:27.890379Z",
-        "latest_known_availability": "available",
-        "observation_count": 3
-      }
-    },
     {
       "retailer_id": "plesio",
       "retailer_name": "Plesio",
@@ -96,14 +74,14 @@
       "availability": "available",
       "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:57:17.746677Z",
+      "observed_at_utc": "2026-08-06T18:41:11.336465Z",
       "history": {
         "previous_price_bgn": "1367.13",
         "historical_minimum_bgn": "1367.13",
         "first_observed_at_utc": "2026-08-05T20:02:13.488200Z",
-        "latest_observed_at_utc": "2026-08-06T12:57:17.746677Z",
+        "latest_observed_at_utc": "2026-08-06T18:41:11.336465Z",
         "latest_known_availability": "available",
-        "observation_count": 7
+        "observation_count": 9
       }
     },
     {
@@ -118,14 +96,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:56:37.269433Z",
+      "observed_at_utc": "2026-08-06T18:40:48.644755Z",
       "history": {
         "previous_price_bgn": "1377.45",
         "historical_minimum_bgn": "1377.45",
         "first_observed_at_utc": "2026-08-05T15:54:31.928728Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:37.269433Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:48.644755Z",
         "latest_known_availability": "available",
-        "observation_count": 11
+        "observation_count": 13
       }
     },
     {
@@ -140,14 +118,14 @@
       "availability": "available",
       "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:57:09.275513Z",
+      "observed_at_utc": "2026-08-06T18:41:06.794637Z",
       "history": {
         "previous_price_bgn": "1406.24",
         "historical_minimum_bgn": "1406.24",
         "first_observed_at_utc": "2026-08-05T20:02:09.250825Z",
-        "latest_observed_at_utc": "2026-08-06T12:57:09.275513Z",
+        "latest_observed_at_utc": "2026-08-06T18:41:06.794637Z",
         "latest_known_availability": "available",
-        "observation_count": 7
+        "observation_count": 9
       }
     },
     {
@@ -162,14 +140,36 @@
       "availability": "available",
       "raw_availability": "Цена: 719,76 € | 1 407,73 лв.\n На склад Код: 81536\nInStock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:55:28.313924Z",
+      "observed_at_utc": "2026-08-06T18:40:10.629968Z",
       "history": {
         "previous_price_bgn": "1407.73",
         "historical_minimum_bgn": "1407.73",
         "first_observed_at_utc": "2026-08-06T09:40:06.630102Z",
-        "latest_observed_at_utc": "2026-08-06T12:55:28.313924Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:10.629968Z",
         "latest_known_availability": "available",
-        "observation_count": 3
+        "observation_count": 5
+      }
+    },
+    {
+      "retailer_id": "desktop",
+      "retailer_name": "Desktop.bg",
+      "product_key": "desktop:sku:g506t-16s2cp",
+      "title": "MSI GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS",
+      "product_url": "https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_shadow_2x_oc_plus",
+      "sku": "G506T-16S2CP",
+      "price_bgn": "1423.85",
+      "raw_price": "728 €\n1423.85 лв.",
+      "availability": "available",
+      "raw_availability": "In stock",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-06T18:40:30.296255Z",
+      "history": {
+        "previous_price_bgn": "1423.85",
+        "historical_minimum_bgn": "1423.85",
+        "first_observed_at_utc": "2026-08-05T13:15:26.274820Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:30.296255Z",
+        "latest_known_availability": "available",
+        "observation_count": 15
       }
     },
     {
@@ -184,80 +184,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:56:35.362658Z",
+      "observed_at_utc": "2026-08-06T18:40:47.410129Z",
       "history": {
         "previous_price_bgn": "1425.19",
         "historical_minimum_bgn": "1425.19",
         "first_observed_at_utc": "2026-08-05T21:58:57.128824Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:35.362658Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:47.410129Z",
         "latest_known_availability": "available",
-        "observation_count": 6
-      }
-    },
-    {
-      "retailer_id": "datacom",
-      "retailer_name": "Datacom",
-      "product_key": "datacom:sku:90yv0mh0-m0na00",
-      "title": "Видео карта ASUS DUAL RTX 5060 TI OC 16GB GDDR7",
-      "product_url": "https://shop.datacom.bg/product_info.php/grafichni-karti-90yv0mh0-m0na00-video-karta-asus-dual-rtx-5060-ti-oc-16gb-gddr7-p-146154",
-      "sku": "90YV0MH0-M0NA00",
-      "price_bgn": "1425.80",
-      "raw_price": "Цена с ДДС:  1425.80лв.",
-      "availability": "available",
-      "raw_availability": "на склад\nIn stock",
-      "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:55:37.063027Z",
-      "history": {
-        "previous_price_bgn": "1425.80",
-        "historical_minimum_bgn": "1425.80",
-        "first_observed_at_utc": "2026-08-05T18:19:50.120387Z",
-        "latest_observed_at_utc": "2026-08-06T12:55:37.063027Z",
-        "latest_known_availability": "available",
-        "observation_count": 9
-      }
-    },
-    {
-      "retailer_id": "gaminggear",
-      "retailer_name": "GamingGear",
-      "product_key": "gaminggear:sku:90yv0mh0-m0na00",
-      "title": "ASUS GeForce RTX 5060 Ti Dual OC Edition, 16GB GDDR7 Видео карта",
-      "product_url": "https://gaminggear.bg/asus-geforce-rtx-5060-ti-dual-oc-edition-16gb-gddr7-video-karta-12561",
-      "sku": "90YV0MH0-M0NA00",
-      "price_bgn": "1425.80",
-      "raw_price": "729.00\n \n€\n/\n1425.80\n \nлв.",
-      "availability": "available",
-      "raw_availability": "В наличност\nIn stock",
-      "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:56:11.289893Z",
-      "history": {
-        "previous_price_bgn": null,
-        "historical_minimum_bgn": "1425.80",
-        "first_observed_at_utc": "2026-08-06T12:56:11.289893Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:11.289893Z",
-        "latest_known_availability": "available",
-        "observation_count": 1
-      }
-    },
-    {
-      "retailer_id": "desktop",
-      "retailer_name": "Desktop.bg",
-      "product_key": "desktop:sku:g506t-16s2cp",
-      "title": "MSI GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS",
-      "product_url": "https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_shadow_2x_oc_plus",
-      "sku": "G506T-16S2CP",
-      "price_bgn": "1425.81",
-      "raw_price": "729 €\n1425.81 лв.",
-      "availability": "available",
-      "raw_availability": "In stock",
-      "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:56:00.659253Z",
-      "history": {
-        "previous_price_bgn": "1425.81",
-        "historical_minimum_bgn": "1425.81",
-        "first_observed_at_utc": "2026-08-05T13:15:26.274820Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:00.659253Z",
-        "latest_known_availability": "available",
-        "observation_count": 13
+        "observation_count": 8
       }
     },
     {
@@ -267,19 +201,19 @@
       "title": "MSI Video Card NVIDIA GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS, 16GB GDDR7, 128-bit, 2602 MHz Boost, 4608 CUDA Cores, PCIe 5.0 (x8), 3x DP 2.1b, HDMI 2.1b, RAY TRACING, Dual Fan, 180W TDP, 8-pin PCIe Power, G-SYNC, 2-Slot, 3Y",
       "product_url": "https://www.pro-bg.com/product/Videocard/Videocard-MSI-RTX5060TI-16-SHADOW-2X-OC-4711377334433--912-V535-003_364310.html",
       "sku": "MSI-RTX5060TI-16G-SHADOW-2X-OC-PLUS",
-      "price_bgn": "1433.66",
-      "raw_price": "1433.66 лв.\n733.02 €\n\n\nКупи с\nЦена с включена доставка!",
+      "price_bgn": "1434.37",
+      "raw_price": "1434.37 лв.\n733.38 €\n\n\nКупи с\nЦена с включена доставка!",
       "availability": "available",
       "raw_availability": "в склад.\nвъншен склад",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:56:44.256858Z",
+      "observed_at_utc": "2026-08-06T18:40:53.649612Z",
       "history": {
         "previous_price_bgn": "1433.66",
         "historical_minimum_bgn": "1433.66",
         "first_observed_at_utc": "2026-08-06T06:30:18.940726Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:44.256858Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:53.649612Z",
         "latest_known_availability": "available",
-        "observation_count": 3
+        "observation_count": 5
       }
     },
     {
@@ -289,19 +223,19 @@
       "title": "MSI NVIDIA GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
       "product_url": "https://cybertrade.bg/hardware/graphics-cards/msi-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus-912-v535-005-81433",
       "sku": "81433",
-      "price_bgn": "1446.69",
-      "raw_price": "739,68 € | 1 446,69 лв.",
+      "price_bgn": "1446.92",
+      "raw_price": "739,80 € | 1 446,92 лв.",
       "availability": "available",
-      "raw_availability": "Цена: 739,68 € | 1 446,69 лв.\n На склад Код: 81433\nInStock",
+      "raw_availability": "Цена: 739,80 € | 1 446,92 лв.\n На склад Код: 81433\nInStock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-06T12:55:28.718582Z",
+      "observed_at_utc": "2026-08-06T18:40:10.858180Z",
       "history": {
-        "previous_price_bgn": "1447.16",
+        "previous_price_bgn": "1446.69",
         "historical_minimum_bgn": "1446.69",
         "first_observed_at_utc": "2026-08-06T09:40:06.863400Z",
-        "latest_observed_at_utc": "2026-08-06T12:55:28.718582Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:10.858180Z",
         "latest_known_availability": "available",
-        "observation_count": 3
+        "observation_count": 5
       }
     },
     {
@@ -316,14 +250,14 @@
       "availability": "available",
       "raw_availability": "на склад\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:55:40.214412Z",
+      "observed_at_utc": "2026-08-06T18:40:16.428226Z",
       "history": {
         "previous_price_bgn": "1449.27",
         "historical_minimum_bgn": "1449.27",
         "first_observed_at_utc": "2026-08-05T18:19:52.479407Z",
-        "latest_observed_at_utc": "2026-08-06T12:55:40.214412Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:16.428226Z",
         "latest_known_availability": "available",
-        "observation_count": 9
+        "observation_count": 11
       }
     },
     {
@@ -333,19 +267,41 @@
       "title": "MSI Video Card NVIDIA GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS, 16GB GDDR7, 128-bit, 2602 MHz Boost, 4608 CUDA Cores, PCIe 5.0 (x8), 3x DP 2.1b, HDMI 2.1b, RAY TRACING, Dual Fan, 180W TDP, 8-pin PCIe Power, G-SYNC, 2-Slot, 3Y",
       "product_url": "https://www.pro-bg.com/product/Videocard/Videocard-MSI-RTX5060TI-16-VENTU-2X-OC--4711377334471--912-V535-005_363228.html",
       "sku": "MSI-RTX5060TI-16G-VENTUS-2X-OC-PLUS",
-      "price_bgn": "1468.15",
-      "raw_price": "1468.15 лв.\n750.66 €\n\n\nКупи с\nЦена с включена доставка!",
+      "price_bgn": "1468.91",
+      "raw_price": "1468.91 лв.\n751.04 €\n\n\nКупи с\nЦена с включена доставка!",
       "availability": "available",
       "raw_availability": "в склад.\nвъншен склад",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-06T12:56:45.436647Z",
+      "observed_at_utc": "2026-08-06T18:40:54.306725Z",
       "history": {
         "previous_price_bgn": "1468.15",
         "historical_minimum_bgn": "1468.15",
         "first_observed_at_utc": "2026-08-06T06:30:19.549786Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:45.436647Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:54.306725Z",
         "latest_known_availability": "available",
-        "observation_count": 3
+        "observation_count": 5
+      }
+    },
+    {
+      "retailer_id": "desktop",
+      "retailer_name": "Desktop.bg",
+      "product_key": "desktop:sku:g506t-16v2cp",
+      "title": "MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
+      "product_url": "https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_ventus_2x_oc_plus",
+      "sku": "G506T-16V2CP",
+      "price_bgn": "1480.57",
+      "raw_price": "757 €\n1480.57 лв.",
+      "availability": "available",
+      "raw_availability": "In stock",
+      "is_ventus_2x": true,
+      "observed_at_utc": "2026-08-06T18:40:31.584363Z",
+      "history": {
+        "previous_price_bgn": "1480.57",
+        "historical_minimum_bgn": "1480.57",
+        "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:31.584363Z",
+        "latest_known_availability": "available",
+        "observation_count": 15
       }
     },
     {
@@ -360,36 +316,14 @@
       "availability": "available",
       "raw_availability": "на склад\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:55:43.005383Z",
+      "observed_at_utc": "2026-08-06T18:40:18.840871Z",
       "history": {
         "previous_price_bgn": "1482.52",
         "historical_minimum_bgn": "1482.52",
         "first_observed_at_utc": "2026-08-05T18:19:54.811925Z",
-        "latest_observed_at_utc": "2026-08-06T12:55:43.005383Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:18.840871Z",
         "latest_known_availability": "available",
-        "observation_count": 9
-      }
-    },
-    {
-      "retailer_id": "desktop",
-      "retailer_name": "Desktop.bg",
-      "product_key": "desktop:sku:g506t-16v2cp",
-      "title": "MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
-      "product_url": "https://desktop.bg/desktop_video_cards-nvidia-GeForce_RTX_5060_Ti-msi_geforce_rtx_5060_ti_16g_ventus_2x_oc_plus",
-      "sku": "G506T-16V2CP",
-      "price_bgn": "1484.48",
-      "raw_price": "759 €\n1484.48 лв.",
-      "availability": "available",
-      "raw_availability": "In stock",
-      "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-06T12:56:02.899935Z",
-      "history": {
-        "previous_price_bgn": "1484.48",
-        "historical_minimum_bgn": "1484.48",
-        "first_observed_at_utc": "2026-08-05T13:15:27.683115Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:02.899935Z",
-        "latest_known_availability": "available",
-        "observation_count": 13
+        "observation_count": 11
       }
     },
     {
@@ -404,14 +338,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:56:38.181230Z",
+      "observed_at_utc": "2026-08-06T18:40:49.153169Z",
       "history": {
         "previous_price_bgn": "1496.73",
         "historical_minimum_bgn": "1496.73",
         "first_observed_at_utc": "2026-08-05T15:54:32.467886Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:38.181230Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:49.153169Z",
         "latest_known_availability": "available",
-        "observation_count": 11
+        "observation_count": 13
       }
     },
     {
@@ -426,14 +360,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-06T12:56:39.243433Z",
+      "observed_at_utc": "2026-08-06T18:40:49.680416Z",
       "history": {
         "previous_price_bgn": "1500.33",
         "historical_minimum_bgn": "1500.33",
         "first_observed_at_utc": "2026-08-05T15:54:32.932939Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:39.243433Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:49.680416Z",
         "latest_known_availability": "available",
-        "observation_count": 11
+        "observation_count": 13
       }
     },
     {
@@ -443,19 +377,19 @@
       "title": "MSI GeForce RTX 5060 Ti Shadow 2X OC Plus, 16GB GDDR7 Видео карта",
       "product_url": "https://gaminggear.bg/msi-geforce-rtx-5060-ti-shadow-2x-oc-plus-16gb-gddr7-video-karta-12635",
       "sku": "G506T-16S2CP",
-      "price_bgn": "1523.59",
-      "raw_price": "779.00\n \n€\n/\n1523.59\n \nлв.",
+      "price_bgn": "1525.55",
+      "raw_price": "780.00\n \n€\n/\n1525.55\n \nлв.",
       "availability": "available",
       "raw_availability": "В наличност\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-06T12:56:08.107528Z",
+      "observed_at_utc": "2026-08-06T18:40:33.893337Z",
       "history": {
-        "previous_price_bgn": null,
+        "previous_price_bgn": "1523.59",
         "historical_minimum_bgn": "1523.59",
         "first_observed_at_utc": "2026-08-06T12:56:08.107528Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:08.107528Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:33.893337Z",
         "latest_known_availability": "available",
-        "observation_count": 1
+        "observation_count": 3
       }
     },
     {
@@ -465,19 +399,19 @@
       "title": "MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS, 16GB GDDR7 Видео карта",
       "product_url": "https://gaminggear.bg/msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-16gb-gddr7-video-karta-12578",
       "sku": "G506T-16V2CP",
-      "price_bgn": "1558.80",
-      "raw_price": "797.00\n \n€\n/\n1558.80\n \nлв.",
+      "price_bgn": "1562.71",
+      "raw_price": "799.00\n \n€\n/\n1562.71\n \nлв.",
       "availability": "available",
       "raw_availability": "В наличност\nIn stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-08-06T12:56:09.581850Z",
+      "observed_at_utc": "2026-08-06T18:40:34.494972Z",
       "history": {
-        "previous_price_bgn": null,
+        "previous_price_bgn": "1558.80",
         "historical_minimum_bgn": "1558.80",
         "first_observed_at_utc": "2026-08-06T12:56:09.581850Z",
-        "latest_observed_at_utc": "2026-08-06T12:56:09.581850Z",
+        "latest_observed_at_utc": "2026-08-06T18:40:34.494972Z",
         "latest_known_availability": "available",
-        "observation_count": 1
+        "observation_count": 3
       }
     }
   ],
@@ -488,9 +422,9 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "3.159891",
-      "failure_code": "blocked_browser_verification",
-      "failure_message": "Изпълняваме проверка за сигурност",
+      "duration_seconds": "2.949565",
+      "failure_code": "blocked_access_denied",
+      "failure_message": "HTTP 403",
       "last_successful_scan_at_utc": null,
       "consecutive_comparable_failures": 0,
       "needs_diagnosis": false
@@ -499,9 +433,9 @@
       "retailer_id": "cybertrade",
       "retailer_name": "Cybertrade",
       "status": "completed",
-      "accepted_offer_count": 3,
-      "candidates_reviewed": 3,
-      "duration_seconds": "2.206828",
+      "accepted_offer_count": 2,
+      "candidates_reviewed": 2,
+      "duration_seconds": "1.009075",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -512,9 +446,9 @@
       "retailer_id": "datacom",
       "retailer_name": "Datacom",
       "status": "completed",
-      "accepted_offer_count": 3,
-      "candidates_reviewed": 6,
-      "duration_seconds": "23.15408",
+      "accepted_offer_count": 2,
+      "candidates_reviewed": 5,
+      "duration_seconds": "14.889528",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -527,7 +461,7 @@
       "status": "completed",
       "accepted_offer_count": 2,
       "candidates_reviewed": 2,
-      "duration_seconds": "10.970462",
+      "duration_seconds": "5.81349",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -538,9 +472,9 @@
       "retailer_id": "gaminggear",
       "retailer_name": "GamingGear",
       "status": "completed",
-      "accepted_offer_count": 3,
+      "accepted_offer_count": 2,
       "candidates_reviewed": 16,
-      "duration_seconds": "25.67278",
+      "duration_seconds": "9.816165",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -553,7 +487,7 @@
       "status": "completed",
       "accepted_offer_count": 1,
       "candidates_reviewed": 1,
-      "duration_seconds": "6.720976",
+      "duration_seconds": "5.972751",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -566,7 +500,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "3.843386",
+      "duration_seconds": "2.256809",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -578,8 +512,8 @@
       "retailer_name": "PRO-BG",
       "status": "completed",
       "accepted_offer_count": 2,
-      "candidates_reviewed": 12,
-      "duration_seconds": "17.326014",
+      "candidates_reviewed": 10,
+      "duration_seconds": "9.086325",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -592,7 +526,7 @@
       "status": "completed",
       "accepted_offer_count": 2,
       "candidates_reviewed": 3,
-      "duration_seconds": "29.439067",
+      "duration_seconds": "16.599333",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
