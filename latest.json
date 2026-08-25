@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "selected_scan": {
-    "scan_id": "2026-08-24T17-50-39.121798Z-1bbbe4b4590a4717a1030a7c737b2abf",
-    "started_at_utc": "2026-08-24T17:50:39.121798Z",
-    "finished_at_utc": "2026-08-24T18:04:45.362633Z",
+    "scan_id": "2026-08-25T05-45-51.629188Z-c079da7526de4c94832d3f32061e5960",
+    "started_at_utc": "2026-08-25T05:45:51.629188Z",
+    "finished_at_utc": "2026-08-25T05:49:13.841039Z",
     "application_version": "0.1.0",
     "application_commit": null,
     "warnings": []
@@ -11,10 +11,10 @@
   "summary": {
     "result_state": "incomplete_with_offers",
     "price_threshold_bgn": "1100.00",
-    "completed_retailer_count": 22,
-    "failed_retailer_count": 3,
+    "completed_retailer_count": 24,
+    "failed_retailer_count": 1,
     "blocked_retailer_count": 2,
-    "accepted_offer_count": 48,
+    "accepted_offer_count": 53,
     "cheapest_offer": {
       "retailer_id": "plesio",
       "retailer_name": "Plesio",
@@ -27,14 +27,14 @@
       "availability": "available",
       "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:00:57.845038Z",
+      "observed_at_utc": "2026-08-25T05:48:12.909341Z",
       "history": {
         "previous_price_bgn": "1367.13",
         "historical_minimum_bgn": "1367.13",
         "first_observed_at_utc": "2026-08-05T20:02:13.488200Z",
-        "latest_observed_at_utc": "2026-08-24T18:00:57.845038Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:12.909341Z",
         "latest_known_availability": "available",
-        "observation_count": 55
+        "observation_count": 56
       }
     },
     "offers_under_threshold": [],
@@ -53,14 +53,14 @@
       "availability": "available",
       "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:00:57.845038Z",
+      "observed_at_utc": "2026-08-25T05:48:12.909341Z",
       "history": {
         "previous_price_bgn": "1367.13",
         "historical_minimum_bgn": "1367.13",
         "first_observed_at_utc": "2026-08-05T20:02:13.488200Z",
-        "latest_observed_at_utc": "2026-08-24T18:00:57.845038Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:12.909341Z",
         "latest_known_availability": "available",
-        "observation_count": 55
+        "observation_count": 56
       }
     },
     {
@@ -75,14 +75,14 @@
       "availability": "available",
       "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:00:49.591153Z",
+      "observed_at_utc": "2026-08-25T05:48:08.322244Z",
       "history": {
         "previous_price_bgn": "1406.24",
         "historical_minimum_bgn": "1406.24",
         "first_observed_at_utc": "2026-08-05T20:02:09.250825Z",
-        "latest_observed_at_utc": "2026-08-24T18:00:49.591153Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:08.322244Z",
         "latest_known_availability": "available",
-        "observation_count": 55
+        "observation_count": 56
       }
     },
     {
@@ -97,14 +97,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН\n1 седмица?\n100% Безплатна доставка\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:58:34.023512Z",
+      "observed_at_utc": "2026-08-25T05:47:53.344458Z",
       "history": {
-        "previous_price_bgn": "1465.99",
+        "previous_price_bgn": "1468.98",
         "historical_minimum_bgn": "1465.99",
         "first_observed_at_utc": "2026-08-12T14:02:45.412158Z",
-        "latest_observed_at_utc": "2026-08-24T17:58:34.023512Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:53.344458Z",
         "latest_known_availability": "available",
-        "observation_count": 24
+        "observation_count": 25
       }
     },
     {
@@ -119,14 +119,14 @@
       "availability": "available",
       "raw_availability": "На склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:12.421660Z",
+      "observed_at_utc": "2026-08-25T05:47:21.387584Z",
       "history": {
         "previous_price_bgn": "1484.47",
         "historical_minimum_bgn": "1288.89",
         "first_observed_at_utc": "2026-08-07T20:35:41.864610Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:12.421660Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:21.387584Z",
         "latest_known_availability": "available",
-        "observation_count": 39
+        "observation_count": 40
       }
     },
     {
@@ -141,14 +141,36 @@
       "availability": "available",
       "raw_availability": "На склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:02:45.900033Z",
+      "observed_at_utc": "2026-08-25T05:48:32.381379Z",
       "history": {
         "previous_price_bgn": "1484.47",
         "historical_minimum_bgn": "1347.57",
         "first_observed_at_utc": "2026-08-08T16:24:11.777279Z",
-        "latest_observed_at_utc": "2026-08-24T18:02:45.900033Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:32.381379Z",
         "latest_known_availability": "available",
-        "observation_count": 35
+        "observation_count": 36
+      }
+    },
+    {
+      "retailer_id": "xtreme",
+      "retailer_name": "Xtreme",
+      "product_key": "xtreme:sku:rtx_5060_ti_16g_shadow_2x_oc_plus",
+      "title": "MSI Video Card NVIDIA GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS, 16GB GDDR7, 128-bit, 2602 MHz Boost, 4608 CUDA Cores, PCIe 5.0 (x8), 3x DP 2.1b, HDMI 2.1b, RAY TRACING, Dual Fan, 180W TDP, 8-pin PCIe Power, G-SYNC, 2-Slot, 3Y",
+      "product_url": "https://xtreme.bg/product/96866/msi-video-card-nvidia-geforce-rtx-5060-ti-16g-shadow-2x-oc-plus-16gb-gddr7-128-bit-2602-mhz-boost-4608-cuda-cores-pcie-50-x8-3x-dp-21b-hdmi-21b-ray-tracing-dual-fan-180w-tdp-8-pin-pcie-power-g-sync-2-slot-3y,%20RTX_5060_TI_16G_SHADOW_2X_OC_PLUS",
+      "sku": "RTX_5060_TI_16G_SHADOW_2X_OC_PLUS",
+      "price_bgn": "1531.28",
+      "raw_price": "€782.93 / 1531.28 лв.",
+      "availability": "available",
+      "raw_availability": "* ВЪНШЕН ДОСТАВЧИК - (1 ДО 3 ДНИ)\nIn stock\nenabled purchase action",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-25T05:47:59.387993Z",
+      "history": {
+        "previous_price_bgn": "1529.17",
+        "historical_minimum_bgn": "1521.64",
+        "first_observed_at_utc": "2026-08-07T20:36:17.765721Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:59.387993Z",
+        "latest_known_availability": "available",
+        "observation_count": 37
       }
     },
     {
@@ -163,14 +185,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН\n1-3 работни дни?\n100% Безплатна доставка\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:58:39.987391Z",
+      "observed_at_utc": "2026-08-25T05:47:53.768933Z",
       "history": {
-        "previous_price_bgn": "1531.98",
+        "previous_price_bgn": "1534.00",
         "historical_minimum_bgn": "1531.98",
         "first_observed_at_utc": "2026-08-12T14:02:46.097651Z",
-        "latest_observed_at_utc": "2026-08-24T17:58:39.987391Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:53.768933Z",
         "latest_known_availability": "available",
-        "observation_count": 27
+        "observation_count": 28
       }
     },
     {
@@ -185,14 +207,36 @@
       "availability": "available",
       "raw_availability": "На склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:03:13.914766Z",
+      "observed_at_utc": "2026-08-25T05:48:40.591992Z",
       "history": {
-        "previous_price_bgn": "1544.09",
+        "previous_price_bgn": "1545.81",
         "historical_minimum_bgn": "1544.09",
         "first_observed_at_utc": "2026-08-07T20:36:51.098444Z",
-        "latest_observed_at_utc": "2026-08-24T18:03:13.914766Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:40.591992Z",
         "latest_known_availability": "available",
-        "observation_count": 40
+        "observation_count": 41
+      }
+    },
+    {
+      "retailer_id": "xtreme",
+      "retailer_name": "Xtreme",
+      "product_key": "xtreme:sku:912-v535-003",
+      "title": "Видео карта, MSI RTX5060TI 16 SHADOW 2X OC+",
+      "product_url": "https://xtreme.bg/product/95643/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-msi-rtx5060ti-16-shadow-2x-oc,%20912-V535-003",
+      "sku": "912-V535-003",
+      "price_bgn": "1550.35",
+      "raw_price": "€792.68 / 1550.35 лв.",
+      "availability": "available",
+      "raw_availability": "* ВЪНШЕН ДОСТАВЧИК - (1 ДО 3 ДНИ)\nIn stock\nenabled purchase action",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-25T05:47:59.811146Z",
+      "history": {
+        "previous_price_bgn": "1549.33",
+        "historical_minimum_bgn": "1370.18",
+        "first_observed_at_utc": "2026-08-07T20:36:17.318392Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:59.811146Z",
+        "latest_known_availability": "available",
+        "observation_count": 21
       }
     },
     {
@@ -207,14 +251,14 @@
       "availability": "available",
       "raw_availability": "In stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:51:12.460113Z",
+      "observed_at_utc": "2026-08-25T05:46:05.589405Z",
       "history": {
-        "previous_price_bgn": "1529.17",
+        "previous_price_bgn": "1560.62",
         "historical_minimum_bgn": "1529.17",
         "first_observed_at_utc": "2026-08-12T13:35:38.424735Z",
-        "latest_observed_at_utc": "2026-08-24T17:51:12.460113Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:05.589405Z",
         "latest_known_availability": "available",
-        "observation_count": 27
+        "observation_count": 28
       }
     },
     {
@@ -229,14 +273,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧНО В ЦЕНТРАЛЕН СКЛАД",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:56.110495Z",
+      "observed_at_utc": "2026-08-25T05:47:42.062502Z",
       "history": {
         "previous_price_bgn": "1560.75",
         "historical_minimum_bgn": "1558.80",
         "first_observed_at_utc": "2026-08-07T08:05:53.056304Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:56.110495Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:42.062502Z",
         "latest_known_availability": "available",
-        "observation_count": 37
+        "observation_count": 38
       }
     },
     {
@@ -247,18 +291,18 @@
       "product_url": "https://cybertrade.bg/hardware/graphics-cards/palit-geforce-rtx-5060-ti-infinity-3-16gb-ne7506t019t1-gb2061s-46332",
       "sku": "46332",
       "price_bgn": "1563.33",
-      "raw_price": "799,32 € | 1 563,33 лв.",
+      "raw_price": "799,32 €",
       "availability": "available",
-      "raw_availability": "Цена: 799,32 € | 1 563,33 лв.\n На склад Код: 46332\nInStock",
+      "raw_availability": "Цена: 799,32 €\n На склад Код: 46332\nInStock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:53:13.002926Z",
+      "observed_at_utc": "2026-08-25T05:46:28.713418Z",
       "history": {
-        "previous_price_bgn": "1562.16",
+        "previous_price_bgn": "1563.33",
         "historical_minimum_bgn": "1560.52",
         "first_observed_at_utc": "2026-08-19T05:45:26.271413Z",
-        "latest_observed_at_utc": "2026-08-24T17:53:13.002926Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:28.713418Z",
         "latest_known_availability": "available",
-        "observation_count": 12
+        "observation_count": 13
       }
     },
     {
@@ -273,14 +317,14 @@
       "availability": "available",
       "raw_availability": "In stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:56:29.547317Z",
+      "observed_at_utc": "2026-08-25T05:47:11.112552Z",
       "history": {
-        "previous_price_bgn": "1569.30",
+        "previous_price_bgn": "1570.98",
         "historical_minimum_bgn": "1569.30",
         "first_observed_at_utc": "2026-08-07T20:35:24.633400Z",
-        "latest_observed_at_utc": "2026-08-24T17:56:29.547317Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:11.112552Z",
         "latest_known_availability": "available",
-        "observation_count": 40
+        "observation_count": 41
       }
     },
     {
@@ -291,18 +335,18 @@
       "product_url": "https://cybertrade.bg/hardware/graphics-cards/msi-geforce-rtx-5060-ti-16g-shadow-2x-oc-plus-912-v535-003-81536",
       "sku": "81536",
       "price_bgn": "1579.29",
-      "raw_price": "807,48 € | 1 579,29 лв.",
+      "raw_price": "807,48 €",
       "availability": "available",
-      "raw_availability": "Цена: 807,48 € | 1 579,29 лв.\n На склад Код: 81536\nInStock",
+      "raw_availability": "Цена: 807,48 €\n На склад Код: 81536\nInStock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:53:14.828631Z",
+      "observed_at_utc": "2026-08-25T05:46:28.936880Z",
       "history": {
-        "previous_price_bgn": "1577.89",
+        "previous_price_bgn": "1579.29",
         "historical_minimum_bgn": "1407.26",
         "first_observed_at_utc": "2026-08-06T09:40:06.630102Z",
-        "latest_observed_at_utc": "2026-08-24T17:53:14.828631Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:28.936880Z",
         "latest_known_availability": "available",
-        "observation_count": 51
+        "observation_count": 52
       }
     },
     {
@@ -317,14 +361,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:58:03.193430Z",
+      "observed_at_utc": "2026-08-25T05:47:46.912573Z",
       "history": {
-        "previous_price_bgn": "1579.88",
+        "previous_price_bgn": "1581.03",
         "historical_minimum_bgn": "1579.08",
         "first_observed_at_utc": "2026-08-18T17:43:12.021504Z",
-        "latest_observed_at_utc": "2026-08-24T17:58:03.193430Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:46.912573Z",
         "latest_known_availability": "available",
-        "observation_count": 13
+        "observation_count": 14
       }
     },
     {
@@ -339,14 +383,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:54:16.250099Z",
+      "observed_at_utc": "2026-08-25T05:46:50.636401Z",
       "history": {
         "previous_price_bgn": "1583.44",
         "historical_minimum_bgn": "1377.45",
         "first_observed_at_utc": "2026-08-05T15:54:31.928728Z",
-        "latest_observed_at_utc": "2026-08-24T17:54:16.250099Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:50.636401Z",
         "latest_known_availability": "available",
-        "observation_count": 25
+        "observation_count": 26
       }
     },
     {
@@ -361,14 +405,14 @@
       "availability": "available",
       "raw_availability": "Наличен в склад, поръчай онлайн или за магазин\nДоставка за 2.59€   !\nЗА ПОРЪЧКИ: 0700 20 810\nНаправи запитване ›\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:17.087391Z",
+      "observed_at_utc": "2026-08-25T05:47:23.624909Z",
       "history": {
         "previous_price_bgn": "1584.20",
         "historical_minimum_bgn": "1378.84",
         "first_observed_at_utc": "2026-08-07T05:28:56.761735Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:17.087391Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:23.624909Z",
         "latest_known_availability": "available",
-        "observation_count": 32
+        "observation_count": 33
       }
     },
     {
@@ -383,14 +427,14 @@
       "availability": "available",
       "raw_availability": "Има в наличност 200 броя\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:51:25.116932Z",
+      "observed_at_utc": "2026-08-25T05:46:07.375833Z",
       "history": {
-        "previous_price_bgn": "1567.95",
+        "previous_price_bgn": "1586.20",
         "historical_minimum_bgn": "1398.34",
         "first_observed_at_utc": "2026-08-07T20:33:53.287828Z",
-        "latest_observed_at_utc": "2026-08-24T17:51:25.116932Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:07.375833Z",
         "latest_known_availability": "available",
-        "observation_count": 17
+        "observation_count": 18
       }
     },
     {
@@ -405,14 +449,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:58:04.164463Z",
+      "observed_at_utc": "2026-08-25T05:47:47.987388Z",
       "history": {
-        "previous_price_bgn": "1586.61",
+        "previous_price_bgn": "1588.41",
         "historical_minimum_bgn": "1426.70",
         "first_observed_at_utc": "2026-08-07T20:36:00.599600Z",
-        "latest_observed_at_utc": "2026-08-24T17:58:04.164463Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:47.987388Z",
         "latest_known_availability": "available",
-        "observation_count": 41
+        "observation_count": 42
       }
     },
     {
@@ -427,14 +471,14 @@
       "availability": "available",
       "raw_availability": "Наличен в склад, поръчай онлайн или за магазин\nДоставка за 2.59€   !\nЗА ПОРЪЧКИ: 0700 20 810\nНаправи запитване ›\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:18.422706Z",
+      "observed_at_utc": "2026-08-25T05:47:24.410578Z",
       "history": {
         "previous_price_bgn": "1593.98",
         "historical_minimum_bgn": "1582.25",
         "first_observed_at_utc": "2026-08-13T18:08:04.926733Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:18.422706Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:24.410578Z",
         "latest_known_availability": "available",
-        "observation_count": 23
+        "observation_count": 24
       }
     },
     {
@@ -445,18 +489,18 @@
       "product_url": "https://cybertrade.bg/hardware/graphics-cards/palit-geforce-rtx-5060-ti-infinity-3-oc-16gb-ne7506ts19t1-gb2061s-76598",
       "sku": "76598",
       "price_bgn": "1597.83",
-      "raw_price": "816,96 € | 1 597,83 лв.",
+      "raw_price": "816,96 €",
       "availability": "available",
-      "raw_availability": "Цена: 816,96 € | 1 597,83 лв.\n На склад Код: 76598\nInStock",
+      "raw_availability": "Цена: 816,96 €\n На склад Код: 76598\nInStock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:53:15.723723Z",
+      "observed_at_utc": "2026-08-25T05:46:29.143157Z",
       "history": {
-        "previous_price_bgn": "1597.13",
+        "previous_price_bgn": "1597.83",
         "historical_minimum_bgn": "1564.27",
         "first_observed_at_utc": "2026-08-12T12:27:40.365047Z",
-        "latest_observed_at_utc": "2026-08-24T17:53:15.723723Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:29.143157Z",
         "latest_known_availability": "available",
-        "observation_count": 28
+        "observation_count": 29
       }
     },
     {
@@ -471,14 +515,14 @@
       "availability": "available",
       "raw_availability": "Наличен в склад, поръчай онлайн или за магазин\nДоставка за 2.59€   !\nЗА ПОРЪЧКИ: 0700 20 810\nНаправи запитване ›\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:20.870371Z",
+      "observed_at_utc": "2026-08-25T05:47:25.212184Z",
       "history": {
         "previous_price_bgn": "1601.81",
         "historical_minimum_bgn": "1369.06",
         "first_observed_at_utc": "2026-08-07T05:28:55.908570Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:20.870371Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:25.212184Z",
         "latest_known_availability": "available",
-        "observation_count": 41
+        "observation_count": 42
       }
     },
     {
@@ -493,14 +537,14 @@
       "availability": "available",
       "raw_availability": "Наличен в склад, поръчай онлайн или за магазин\nДоставка за 2.59€   !\nЗА ПОРЪЧКИ: 0700 20 810\nНаправи запитване ›\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:23.729487Z",
+      "observed_at_utc": "2026-08-25T05:47:26.105213Z",
       "history": {
         "previous_price_bgn": "1603.76",
         "historical_minimum_bgn": "1367.11",
         "first_observed_at_utc": "2026-08-07T05:28:54.998310Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:23.729487Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:26.105213Z",
         "latest_known_availability": "available",
-        "observation_count": 41
+        "observation_count": 42
       }
     },
     {
@@ -515,14 +559,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:01:25.540051Z",
+      "observed_at_utc": "2026-08-25T05:48:20.795650Z",
       "history": {
-        "previous_price_bgn": "1617.18",
+        "previous_price_bgn": "1618.39",
         "historical_minimum_bgn": "1616.38",
         "first_observed_at_utc": "2026-08-19T05:47:21.237971Z",
-        "latest_observed_at_utc": "2026-08-24T18:01:25.540051Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:20.795650Z",
         "latest_known_availability": "available",
-        "observation_count": 12
+        "observation_count": 13
       }
     },
     {
@@ -532,19 +576,19 @@
       "title": "Видео карта PALIT RTX5060TI INFINI 3 OC 16",
       "product_url": "https://www.jmt.bg/palit-rtx5060ti-infiniti-3-oc-16gb-pid100912",
       "sku": "100912",
-      "price_bgn": "1620.09",
-      "raw_price": "€ 828.34",
+      "price_bgn": "1620.15",
+      "raw_price": "€ 828.37",
       "availability": "available",
       "raw_availability": "ДОБАВИ В КОЛИЧКАТА\nhttp://schema.org/OnlineOnly",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:54:27.998483Z",
+      "observed_at_utc": "2026-08-25T05:46:55.887997Z",
       "history": {
-        "previous_price_bgn": "1620.15",
+        "previous_price_bgn": "1620.09",
         "historical_minimum_bgn": "1608.44",
         "first_observed_at_utc": "2026-08-12T12:28:27.697745Z",
-        "latest_observed_at_utc": "2026-08-24T17:54:27.998483Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:55.887997Z",
         "latest_known_availability": "available",
-        "observation_count": 29
+        "observation_count": 30
       }
     },
     {
@@ -559,14 +603,14 @@
       "availability": "available",
       "raw_availability": "В НАЛИЧНОСТ\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:54:46.095478Z",
+      "observed_at_utc": "2026-08-25T05:47:01.287897Z",
       "history": {
-        "previous_price_bgn": "1633.08",
+        "previous_price_bgn": "1634.94",
         "historical_minimum_bgn": "1633.08",
         "first_observed_at_utc": "2026-08-07T20:35:13.354269Z",
-        "latest_observed_at_utc": "2026-08-24T17:54:46.095478Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:01.287897Z",
         "latest_known_availability": "available",
-        "observation_count": 41
+        "observation_count": 42
       }
     },
     {
@@ -581,14 +625,14 @@
       "availability": "available",
       "raw_availability": "\nProduct availability:\nНаличност: във външен склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:03:05.055600Z",
+      "observed_at_utc": "2026-08-25T05:48:36.426219Z",
       "history": {
-        "previous_price_bgn": "1633.12",
+        "previous_price_bgn": "1635.07",
         "historical_minimum_bgn": "1521.64",
         "first_observed_at_utc": "2026-08-07T20:36:48.284293Z",
-        "latest_observed_at_utc": "2026-08-24T18:03:05.055600Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:36.426219Z",
         "latest_known_availability": "available",
-        "observation_count": 35
+        "observation_count": 36
       }
     },
     {
@@ -603,14 +647,14 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:54:17.717006Z",
+      "observed_at_utc": "2026-08-25T05:46:51.147709Z",
       "history": {
         "previous_price_bgn": "1640.49",
         "historical_minimum_bgn": "1496.73",
         "first_observed_at_utc": "2026-08-05T15:54:32.467886Z",
-        "latest_observed_at_utc": "2026-08-24T17:54:17.717006Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:51.147709Z",
         "latest_known_availability": "available",
-        "observation_count": 59
+        "observation_count": 60
       }
     },
     {
@@ -625,14 +669,14 @@
       "availability": "available",
       "raw_availability": "ДОБАВИ В КОЛИЧКАТА\nhttp://schema.org/OnlineOnly",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:54:29.390614Z",
+      "observed_at_utc": "2026-08-25T05:46:56.587797Z",
       "history": {
         "previous_price_bgn": "1643.95",
         "historical_minimum_bgn": "1642.45",
         "first_observed_at_utc": "2026-08-18T17:41:45.546573Z",
-        "latest_observed_at_utc": "2026-08-24T17:54:29.390614Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:56.587797Z",
         "latest_known_availability": "available",
-        "observation_count": 13
+        "observation_count": 14
       }
     },
     {
@@ -647,14 +691,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:55:15.148024Z",
+      "observed_at_utc": "2026-08-25T05:47:05.701271Z",
       "history": {
-        "previous_price_bgn": "1646.81",
+        "previous_price_bgn": "1648.76",
         "historical_minimum_bgn": "1646.81",
         "first_observed_at_utc": "2026-08-07T20:35:19.536764Z",
-        "latest_observed_at_utc": "2026-08-24T17:55:15.148024Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:05.701271Z",
         "latest_known_availability": "available",
-        "observation_count": 37
+        "observation_count": 38
       }
     },
     {
@@ -669,14 +713,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:01:35.763053Z",
+      "observed_at_utc": "2026-08-25T05:48:21.649159Z",
       "history": {
-        "previous_price_bgn": "1646.97",
+        "previous_price_bgn": "1648.80",
         "historical_minimum_bgn": "1459.13",
         "first_observed_at_utc": "2026-08-07T20:36:36.341903Z",
-        "latest_observed_at_utc": "2026-08-24T18:01:35.763053Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:21.649159Z",
         "latest_known_availability": "available",
-        "observation_count": 37
+        "observation_count": 38
       }
     },
     {
@@ -691,14 +735,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:01:43.550381Z",
+      "observed_at_utc": "2026-08-25T05:48:22.512692Z",
       "history": {
-        "previous_price_bgn": "1653.54",
+        "previous_price_bgn": "1654.79",
         "historical_minimum_bgn": "1623.12",
         "first_observed_at_utc": "2026-08-12T18:09:13.796314Z",
-        "latest_observed_at_utc": "2026-08-24T18:01:43.550381Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:22.512692Z",
         "latest_known_availability": "available",
-        "observation_count": 24
+        "observation_count": 25
       }
     },
     {
@@ -713,14 +757,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧНО В ЦЕНТРАЛЕН СКЛАД",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:56.831626Z",
+      "observed_at_utc": "2026-08-25T05:47:42.800004Z",
       "history": {
-        "previous_price_bgn": "1656.59",
+        "previous_price_bgn": "1658.54",
         "historical_minimum_bgn": "1656.59",
         "first_observed_at_utc": "2026-08-19T17:40:48.703397Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:56.831626Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:42.800004Z",
         "latest_known_availability": "available",
-        "observation_count": 11
+        "observation_count": 12
       }
     },
     {
@@ -735,14 +779,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:58:09.221733Z",
+      "observed_at_utc": "2026-08-25T05:47:49.046327Z",
       "history": {
-        "previous_price_bgn": "1657.66",
+        "previous_price_bgn": "1658.90",
         "historical_minimum_bgn": "1627.15",
         "first_observed_at_utc": "2026-08-12T12:30:33.561162Z",
-        "latest_observed_at_utc": "2026-08-24T17:58:09.221733Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:49.046327Z",
         "latest_known_availability": "available",
-        "observation_count": 29
+        "observation_count": 30
       }
     },
     {
@@ -757,14 +801,36 @@
       "availability": "available",
       "raw_availability": "Налично\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:02:47.118169Z",
+      "observed_at_utc": "2026-08-25T05:48:33.219868Z",
       "history": {
         "previous_price_bgn": "1660.50",
         "historical_minimum_bgn": "1543.15",
         "first_observed_at_utc": "2026-08-08T16:24:12.711755Z",
-        "latest_observed_at_utc": "2026-08-24T18:02:47.118169Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:33.219868Z",
         "latest_known_availability": "available",
-        "observation_count": 35
+        "observation_count": 36
+      }
+    },
+    {
+      "retailer_id": "speedcomputers",
+      "retailer_name": "Speed Computers",
+      "product_key": "speedcomputers:canonical-url:https://www.speedcomputers.biz/asus-dual-rtx-5060-ti-oc-16gb-gddr7-video-karta",
+      "title": "Asus Dual RTX 5060 Ti OC 16GB GDDR7 видео карта",
+      "product_url": "https://www.speedcomputers.biz/asus-dual-rtx-5060-ti-oc-16gb-gddr7-video-karta",
+      "sku": null,
+      "price_bgn": "1660.50",
+      "raw_price": "€849",
+      "availability": "available",
+      "raw_availability": "Централен склад: В наличност\nIn stock\nenabled purchase action",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-25T05:48:47.714511Z",
+      "history": {
+        "previous_price_bgn": "1660.50",
+        "historical_minimum_bgn": "1347.57",
+        "first_observed_at_utc": "2026-08-07T20:37:01.805111Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:47.714511Z",
+        "latest_known_availability": "available",
+        "observation_count": 36
       }
     },
     {
@@ -779,14 +845,36 @@
       "availability": "available",
       "raw_availability": "In stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:54:18.894437Z",
+      "observed_at_utc": "2026-08-25T05:46:51.633922Z",
       "history": {
         "previous_price_bgn": "1664.04",
         "historical_minimum_bgn": "1633.45",
         "first_observed_at_utc": "2026-08-13T06:44:46.749252Z",
-        "latest_observed_at_utc": "2026-08-24T17:54:18.894437Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:51.633922Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
+      }
+    },
+    {
+      "retailer_id": "speedcomputers",
+      "retailer_name": "Speed Computers",
+      "product_key": "speedcomputers:canonical-url:https://www.speedcomputers.biz/msi-rtx-5060-ti-shadow-2x-oc-plus-16gb-gddr7-video-karta",
+      "title": "MSI RTX 5060 Ti Shadow 2X OC Plus 16GB GDDR7 видео карта",
+      "product_url": "https://www.speedcomputers.biz/msi-rtx-5060-ti-shadow-2x-oc-plus-16gb-gddr7-video-karta",
+      "sku": null,
+      "price_bgn": "1664.41",
+      "raw_price": "€851",
+      "availability": "available",
+      "raw_availability": "Централен склад: В наличност\nIn stock\nenabled purchase action",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-25T05:48:49.317857Z",
+      "history": {
+        "previous_price_bgn": "1664.41",
+        "historical_minimum_bgn": "1374.95",
+        "first_observed_at_utc": "2026-08-07T20:37:03.730677Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:49.317857Z",
+        "latest_known_availability": "available",
+        "observation_count": 36
       }
     },
     {
@@ -801,14 +889,14 @@
       "availability": "available",
       "raw_availability": "ДОБАВИ В КОЛИЧКАТА\nhttp://schema.org/OnlineOnly",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:54:32.655071Z",
+      "observed_at_utc": "2026-08-25T05:46:57.454730Z",
       "history": {
         "previous_price_bgn": "1674.37",
         "historical_minimum_bgn": "1494.70",
         "first_observed_at_utc": "2026-08-06T20:12:43.899714Z",
-        "latest_observed_at_utc": "2026-08-24T17:54:32.655071Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:57.454730Z",
         "latest_known_availability": "available",
-        "observation_count": 26
+        "observation_count": 27
       }
     },
     {
@@ -823,14 +911,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧНО В ЦЕНТРАЛЕН СКЛАД",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:57.577918Z",
+      "observed_at_utc": "2026-08-25T05:47:43.509383Z",
       "history": {
-        "previous_price_bgn": "1676.15",
+        "previous_price_bgn": "1678.10",
         "historical_minimum_bgn": "1494.25",
         "first_observed_at_utc": "2026-08-07T08:05:51.635021Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:57.577918Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:43.509383Z",
         "latest_known_availability": "available",
-        "observation_count": 18
+        "observation_count": 19
       }
     },
     {
@@ -845,14 +933,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:53:41.222370Z",
+      "observed_at_utc": "2026-08-25T05:46:40.903428Z",
       "history": {
-        "previous_price_bgn": "1683.97",
+        "previous_price_bgn": "1685.93",
         "historical_minimum_bgn": "1683.97",
         "first_observed_at_utc": "2026-08-19T05:45:38.936578Z",
-        "latest_observed_at_utc": "2026-08-24T17:53:41.222370Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:40.903428Z",
         "latest_known_availability": "available",
-        "observation_count": 12
+        "observation_count": 13
       }
     },
     {
@@ -867,14 +955,36 @@
       "availability": "available",
       "raw_availability": "\nProduct availability:\nНаличност: във външен склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:03:06.337019Z",
+      "observed_at_utc": "2026-08-25T05:48:37.191241Z",
       "history": {
         "previous_price_bgn": "1685.93",
         "historical_minimum_bgn": "1683.97",
         "first_observed_at_utc": "2026-08-18T17:44:16.488117Z",
-        "latest_observed_at_utc": "2026-08-24T18:03:06.337019Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:37.191241Z",
         "latest_known_availability": "available",
-        "observation_count": 13
+        "observation_count": 14
+      }
+    },
+    {
+      "retailer_id": "speedcomputers",
+      "retailer_name": "Speed Computers",
+      "product_key": "speedcomputers:canonical-url:https://www.speedcomputers.biz/palit-rtx-5060-ti-infinity-3-oc-16gb-gddr7-video-karta",
+      "title": "Palit RTX 5060 Ti Infinity 3 OC 16GB GDDR7 видео карта",
+      "product_url": "https://www.speedcomputers.biz/palit-rtx-5060-ti-infinity-3-oc-16gb-gddr7-video-karta",
+      "sku": null,
+      "price_bgn": "1689.84",
+      "raw_price": "€864",
+      "availability": "available",
+      "raw_availability": "Централен склад: В наличност\nIn stock\nenabled purchase action",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-25T05:48:46.072213Z",
+      "history": {
+        "previous_price_bgn": "1689.84",
+        "historical_minimum_bgn": "1396.46",
+        "first_observed_at_utc": "2026-08-07T20:36:58.138341Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:46.072213Z",
+        "latest_known_availability": "available",
+        "observation_count": 21
       }
     },
     {
@@ -889,36 +999,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧНО В ЦЕНТРАЛЕН СКЛАД",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:58.332892Z",
+      "observed_at_utc": "2026-08-25T05:47:44.206090Z",
       "history": {
-        "previous_price_bgn": "1693.75",
+        "previous_price_bgn": "1695.70",
         "historical_minimum_bgn": "1660.50",
         "first_observed_at_utc": "2026-08-12T13:38:30.520179Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:58.332892Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:44.206090Z",
         "latest_known_availability": "available",
-        "observation_count": 27
-      }
-    },
-    {
-      "retailer_id": "pro-bg",
-      "retailer_name": "PRO-BG",
-      "product_key": "pro-bg:sku:zt-b50620f-10m",
-      "title": "Zotac RTX 5060 TI AMP 16GB GDDR7 HDMI 3xDP",
-      "product_url": "https://www.pro-bg.com/product/Videocard/Zotac-Zotac-RTX-5060-TI-AMP-16GB-GDDR7-HDMI-3xDP_358647.html",
-      "sku": "ZT-B50620F-10M",
-      "price_bgn": "1699.83",
-      "raw_price": "1699.82 лв.\n869.11 €\n\n\nКупи с\nЦена с включена доставка!",
-      "availability": "available",
-      "raw_availability": "външен склад\nДоставяме продукта от 2 до 5 дни след заявка!",
-      "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:44.493048Z",
-      "history": {
-        "previous_price_bgn": "1699.83",
-        "historical_minimum_bgn": "1592.60",
-        "first_observed_at_utc": "2026-08-06T20:12:53.574027Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:44.493048Z",
-        "latest_known_availability": "available",
-        "observation_count": 40
+        "observation_count": 28
       }
     },
     {
@@ -933,14 +1021,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:53:37.696237Z",
+      "observed_at_utc": "2026-08-25T05:46:39.740270Z",
       "history": {
-        "previous_price_bgn": "1703.53",
+        "previous_price_bgn": "1705.48",
         "historical_minimum_bgn": "1519.68",
         "first_observed_at_utc": "2026-08-06T12:56:08.107528Z",
-        "latest_observed_at_utc": "2026-08-24T17:53:37.696237Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:39.740270Z",
         "latest_known_availability": "available",
-        "observation_count": 45
+        "observation_count": 46
       }
     },
     {
@@ -955,14 +1043,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:53:40.003125Z",
+      "observed_at_utc": "2026-08-25T05:46:40.253355Z",
       "history": {
         "previous_price_bgn": "1723.09",
         "historical_minimum_bgn": "1689.84",
         "first_observed_at_utc": "2026-08-12T18:06:31.706532Z",
-        "latest_observed_at_utc": "2026-08-24T17:53:40.003125Z",
+        "latest_observed_at_utc": "2026-08-25T05:46:40.253355Z",
         "latest_known_availability": "available",
-        "observation_count": 24
+        "observation_count": 25
       }
     },
     {
@@ -977,14 +1065,14 @@
       "availability": "available",
       "raw_availability": "\nProduct availability:\nНаличност: във външен склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:03:08.107171Z",
+      "observed_at_utc": "2026-08-25T05:48:37.909145Z",
       "history": {
-        "previous_price_bgn": "1723.09",
+        "previous_price_bgn": "1725.04",
         "historical_minimum_bgn": "1691.79",
         "first_observed_at_utc": "2026-08-12T13:40:06.497323Z",
-        "latest_observed_at_utc": "2026-08-24T18:03:08.107171Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:37.909145Z",
         "latest_known_availability": "available",
-        "observation_count": 28
+        "observation_count": 29
       }
     },
     {
@@ -999,14 +1087,14 @@
       "availability": "available",
       "raw_availability": "Налично\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:02:48.094210Z",
+      "observed_at_utc": "2026-08-25T05:48:34.063559Z",
       "history": {
         "previous_price_bgn": "1738.73",
         "historical_minimum_bgn": "1699.62",
         "first_observed_at_utc": "2026-08-19T05:47:39.787686Z",
-        "latest_observed_at_utc": "2026-08-24T18:02:48.094210Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:34.063559Z",
         "latest_known_availability": "available",
-        "observation_count": 12
+        "observation_count": 13
       }
     },
     {
@@ -1021,14 +1109,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН\n1 седмица?\n100% Безплатна доставка\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:58:45.446297Z",
+      "observed_at_utc": "2026-08-25T05:47:54.214459Z",
       "history": {
         "previous_price_bgn": "1746.99",
         "historical_minimum_bgn": "1742.00",
         "first_observed_at_utc": "2026-08-19T17:40:59.493235Z",
-        "latest_observed_at_utc": "2026-08-24T17:58:45.446297Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:54.214459Z",
         "latest_known_availability": "available",
-        "observation_count": 11
+        "observation_count": 12
       }
     },
     {
@@ -1043,14 +1131,14 @@
       "availability": "available",
       "raw_availability": "Налично\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T18:03:01.876979Z",
+      "observed_at_utc": "2026-08-25T05:48:34.895555Z",
       "history": {
         "previous_price_bgn": "1777.85",
         "historical_minimum_bgn": "1699.62",
         "first_observed_at_utc": "2026-08-12T18:09:35.299707Z",
-        "latest_observed_at_utc": "2026-08-24T18:03:01.876979Z",
+        "latest_observed_at_utc": "2026-08-25T05:48:34.895555Z",
         "latest_known_availability": "available",
-        "observation_count": 24
+        "observation_count": 25
       }
     },
     {
@@ -1065,14 +1153,14 @@
       "availability": "available",
       "raw_availability": "външен склад\nДоставяме продукта от 2 до 5 дни след заявка!",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:51.342190Z",
+      "observed_at_utc": "2026-08-25T05:47:37.309449Z",
       "history": {
         "previous_price_bgn": "1794.85",
         "historical_minimum_bgn": "1731.07",
         "first_observed_at_utc": "2026-08-07T05:29:05.841529Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:51.342190Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:37.309449Z",
         "latest_known_availability": "available",
-        "observation_count": 19
+        "observation_count": 20
       }
     },
     {
@@ -1087,14 +1175,36 @@
       "availability": "available",
       "raw_availability": "външен склад\nДоставяме продукта от 2 до 5 дни след заявка!",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-08-24T17:57:52.608152Z",
+      "observed_at_utc": "2026-08-25T05:47:38.050675Z",
       "history": {
         "previous_price_bgn": "1840.08",
         "historical_minimum_bgn": "1840.08",
         "first_observed_at_utc": "2026-08-06T20:12:57.830421Z",
-        "latest_observed_at_utc": "2026-08-24T17:57:52.608152Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:38.050675Z",
         "latest_known_availability": "available",
-        "observation_count": 35
+        "observation_count": 36
+      }
+    },
+    {
+      "retailer_id": "pro-bg",
+      "retailer_name": "PRO-BG",
+      "product_key": "pro-bg:sku:zt-b50620f-10m",
+      "title": "Zotac RTX 5060 TI AMP 16GB GDDR7 HDMI 3xDP",
+      "product_url": "https://www.pro-bg.com/product/Videocard/Zotac-Zotac-RTX-5060-TI-AMP-16GB-GDDR7-HDMI-3xDP_358647.html",
+      "sku": "ZT-B50620F-10M",
+      "price_bgn": "2160.94",
+      "raw_price": "2160.94 лв.\n1104.87 €\n\n\nКупи с\nЦена с включена доставка!",
+      "availability": "available",
+      "raw_availability": "външен склад\nДоставяме продукта от 2 до 5 дни след заявка!",
+      "is_ventus_2x": false,
+      "observed_at_utc": "2026-08-25T05:47:40.030657Z",
+      "history": {
+        "previous_price_bgn": "1699.83",
+        "historical_minimum_bgn": "1592.60",
+        "first_observed_at_utc": "2026-08-06T20:12:53.574027Z",
+        "latest_observed_at_utc": "2026-08-25T05:47:40.030657Z",
+        "latest_known_availability": "available",
+        "observation_count": 41
       }
     }
   ],
@@ -1105,7 +1215,7 @@
       "status": "completed",
       "accepted_offer_count": 2,
       "candidates_reviewed": 16,
-      "duration_seconds": "146.553531",
+      "duration_seconds": "35.75486",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1118,7 +1228,7 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.471604",
+      "duration_seconds": "0.177686",
       "failure_code": "blocked_access_denied",
       "failure_message": "HTTP 403",
       "last_successful_scan_at_utc": null,
@@ -1131,7 +1241,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "9.216362",
+      "duration_seconds": "1.186593",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1144,11 +1254,11 @@
       "status": "failed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 1,
-      "duration_seconds": "14.183557",
+      "duration_seconds": "5.828066",
       "failure_code": "unresolved_cheaper_candidate",
       "failure_message": "Could not validate listing position 1: Datacom product page did not expose exactly one Product/Offer pair bound to the candidate name and final URL",
       "last_successful_scan_at_utc": "2026-08-14T06:42:04.591827Z",
-      "consecutive_comparable_failures": 21,
+      "consecutive_comparable_failures": 22,
       "needs_diagnosis": true
     },
     {
@@ -1157,7 +1267,7 @@
       "status": "completed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "4.166599",
+      "duration_seconds": "2.47307",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1170,7 +1280,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 16,
-      "duration_seconds": "30.054572",
+      "duration_seconds": "9.847812",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1183,7 +1293,7 @@
       "status": "completed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "5.502705",
+      "duration_seconds": "1.867691",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1196,7 +1306,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "9.216061",
+      "duration_seconds": "2.422454",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1209,7 +1319,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 4,
-      "duration_seconds": "13.749111",
+      "duration_seconds": "5.805393",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1222,7 +1332,7 @@
       "status": "completed",
       "accepted_offer_count": 1,
       "candidates_reviewed": 3,
-      "duration_seconds": "15.092316",
+      "duration_seconds": "4.853859",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1235,7 +1345,7 @@
       "status": "completed",
       "accepted_offer_count": 1,
       "candidates_reviewed": 11,
-      "duration_seconds": "79.38475",
+      "duration_seconds": "6.631156",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1248,7 +1358,7 @@
       "status": "completed",
       "accepted_offer_count": 1,
       "candidates_reviewed": 1,
-      "duration_seconds": "22.371608",
+      "duration_seconds": "2.132195",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1260,8 +1370,8 @@
       "retailer_name": "Ozone",
       "status": "completed",
       "accepted_offer_count": 1,
-      "candidates_reviewed": 4,
-      "duration_seconds": "42.862612",
+      "candidates_reviewed": 3,
+      "duration_seconds": "10.264853",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1274,7 +1384,7 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.711275",
+      "duration_seconds": "0.225016",
       "failure_code": "blocked_access_denied",
       "failure_message": "HTTP 403",
       "last_successful_scan_at_utc": "2026-08-22T05:41:37.913030Z",
@@ -1287,7 +1397,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "10.504784",
+      "duration_seconds": "4.45881",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1299,8 +1409,8 @@
       "retailer_name": "PRO-BG",
       "status": "completed",
       "accepted_offer_count": 3,
-      "candidates_reviewed": 12,
-      "duration_seconds": "29.479134",
+      "candidates_reviewed": 11,
+      "duration_seconds": "13.911927",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1313,7 +1423,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "5.095345",
+      "duration_seconds": "4.161054",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1326,7 +1436,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "10.874611",
+      "duration_seconds": "4.829334",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1339,7 +1449,7 @@
       "status": "completed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "10.072603",
+      "duration_seconds": "3.14559",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1352,7 +1462,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "26.120834",
+      "duration_seconds": "1.994188",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1362,14 +1472,14 @@
     {
       "retailer_id": "xtreme",
       "retailer_name": "Xtreme",
-      "status": "failed",
-      "accepted_offer_count": 0,
-      "candidates_reviewed": 10,
-      "duration_seconds": "114.760773",
-      "failure_code": "unresolved_cheaper_candidate",
-      "failure_message": "Could not validate listing position 10: Xtreme product page did not expose one visible product scope",
-      "last_successful_scan_at_utc": "2026-08-24T05:53:50.386401Z",
-      "consecutive_comparable_failures": 1,
+      "status": "completed",
+      "accepted_offer_count": 2,
+      "candidates_reviewed": 12,
+      "duration_seconds": "6.013144",
+      "failure_code": null,
+      "failure_message": null,
+      "last_successful_scan_at_utc": null,
+      "consecutive_comparable_failures": 0,
       "needs_diagnosis": false
     },
     {
@@ -1378,7 +1488,7 @@
       "status": "completed",
       "accepted_offer_count": 2,
       "candidates_reviewed": 3,
-      "duration_seconds": "26.161413",
+      "duration_seconds": "17.063936",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1390,8 +1500,8 @@
       "retailer_name": "Pimp My PC",
       "status": "completed",
       "accepted_offer_count": 3,
-      "candidates_reviewed": 11,
-      "duration_seconds": "92.146807",
+      "candidates_reviewed": 12,
+      "duration_seconds": "12.795433",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1404,7 +1514,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "23.319464",
+      "duration_seconds": "4.751148",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1417,7 +1527,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "6.216659",
+      "duration_seconds": "2.997633",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1430,7 +1540,7 @@
       "status": "completed",
       "accepted_offer_count": 1,
       "candidates_reviewed": 1,
-      "duration_seconds": "5.796373",
+      "duration_seconds": "2.671509",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1440,14 +1550,14 @@
     {
       "retailer_id": "speedcomputers",
       "retailer_name": "Speed Computers",
-      "status": "failed",
-      "accepted_offer_count": 0,
-      "candidates_reviewed": 10,
-      "duration_seconds": "91.349528",
-      "failure_code": "unresolved_cheaper_candidate",
-      "failure_message": "Could not validate listing position 10: Speed Computers product page did not expose one visible Product scope",
-      "last_successful_scan_at_utc": "2026-08-24T05:54:57.771672Z",
-      "consecutive_comparable_failures": 1,
+      "status": "completed",
+      "accepted_offer_count": 3,
+      "candidates_reviewed": 16,
+      "duration_seconds": "33.08328",
+      "failure_code": null,
+      "failure_message": null,
+      "last_successful_scan_at_utc": null,
+      "consecutive_comparable_failures": 0,
       "needs_diagnosis": false
     }
   ]
