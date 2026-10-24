@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "selected_scan": {
-    "scan_id": "2026-10-23T20-26-03.877743Z-c8f472d369654b09a9093a5c88b890c5",
-    "started_at_utc": "2026-10-23T20:26:03.877743Z",
-    "finished_at_utc": "2026-10-23T20:30:29.516053Z",
+    "scan_id": "2026-10-24T09-30-20.628973Z-2ef45330e5fa4c6aa9e2085614260c57",
+    "started_at_utc": "2026-10-24T09:30:20.628973Z",
+    "finished_at_utc": "2026-10-24T09:34:32.915474Z",
     "application_version": "0.1.0",
     "application_commit": null,
     "warnings": []
@@ -14,7 +14,7 @@
     "completed_retailer_count": 19,
     "failed_retailer_count": 6,
     "blocked_retailer_count": 2,
-    "accepted_offer_count": 56,
+    "accepted_offer_count": 55,
     "cheapest_offer": {
       "retailer_id": "plesio",
       "retailer_name": "Plesio",
@@ -27,14 +27,14 @@
       "availability": "available",
       "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:29:32.610634Z",
+      "observed_at_utc": "2026-10-24T09:33:41.845511Z",
       "history": {
         "previous_price_bgn": "1621.38",
         "historical_minimum_bgn": "1621.38",
         "first_observed_at_utc": "2026-10-17T12:40:15.337220Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:32.610634Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:41.845511Z",
         "latest_known_availability": "available",
-        "observation_count": 14
+        "observation_count": 15
       }
     },
     "offers_under_threshold": [],
@@ -50,14 +50,14 @@
       "availability": "available",
       "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:29:32.610634Z",
+      "observed_at_utc": "2026-10-24T09:33:41.845511Z",
       "history": {
         "previous_price_bgn": "1621.38",
         "historical_minimum_bgn": "1621.38",
         "first_observed_at_utc": "2026-10-17T12:40:15.337220Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:32.610634Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:41.845511Z",
         "latest_known_availability": "available",
-        "observation_count": 14
+        "observation_count": 15
       }
     }
   },
@@ -74,14 +74,14 @@
       "availability": "available",
       "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:29:32.610634Z",
+      "observed_at_utc": "2026-10-24T09:33:41.845511Z",
       "history": {
         "previous_price_bgn": "1621.38",
         "historical_minimum_bgn": "1621.38",
         "first_observed_at_utc": "2026-10-17T12:40:15.337220Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:32.610634Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:41.845511Z",
         "latest_known_availability": "available",
-        "observation_count": 14
+        "observation_count": 15
       }
     },
     {
@@ -96,14 +96,14 @@
       "availability": "available",
       "raw_availability": "На склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:29:51.643703Z",
+      "observed_at_utc": "2026-10-24T09:34:01.477637Z",
       "history": {
         "previous_price_bgn": "1621.46",
         "historical_minimum_bgn": "1616.85",
         "first_observed_at_utc": "2026-10-17T12:40:48.307929Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:51.643703Z",
+        "latest_observed_at_utc": "2026-10-24T09:34:01.477637Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -118,14 +118,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН\n1-3 работни дни?\n100% Безплатна доставка\nIn stock\nenabled purchase action",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:29:14.107224Z",
+      "observed_at_utc": "2026-10-24T09:33:24.242182Z",
       "history": {
         "previous_price_bgn": "1624.98",
         "historical_minimum_bgn": "1619.99",
         "first_observed_at_utc": "2026-10-17T12:39:52.724709Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:14.107224Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:24.242182Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -140,14 +140,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧНО В ЦЕНТРАЛЕН СКЛАД",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:28:52.930127Z",
+      "observed_at_utc": "2026-10-24T09:33:01.040319Z",
       "history": {
         "previous_price_bgn": "1637.03",
         "historical_minimum_bgn": "1582.27",
         "first_observed_at_utc": "2026-08-07T08:05:53.741098Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:52.930127Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:01.040319Z",
         "latest_known_availability": "available",
-        "observation_count": 37
+        "observation_count": 38
       }
     },
     {
@@ -162,14 +162,14 @@
       "availability": "available",
       "raw_availability": "Наличен в склад, поръчай онлайн или за магазин\nДоставка за 2.59€   !\nЗА ПОРЪЧКИ: 0700 20 810\nНаправи запитване ›\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:28:30.857873Z",
+      "observed_at_utc": "2026-10-24T09:32:46.336020Z",
       "history": {
         "previous_price_bgn": "1642.88",
         "historical_minimum_bgn": "1378.84",
         "first_observed_at_utc": "2026-08-07T05:28:56.761735Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:30.857873Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:46.336020Z",
         "latest_known_availability": "available",
-        "observation_count": 49
+        "observation_count": 50
       }
     },
     {
@@ -184,14 +184,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН\n1-3 работни дни?\n100% Безплатна доставка\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:14.512784Z",
+      "observed_at_utc": "2026-10-24T09:33:24.688593Z",
       "history": {
         "previous_price_bgn": "1643.99",
         "historical_minimum_bgn": "1531.98",
         "first_observed_at_utc": "2026-08-12T14:02:46.097651Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:14.512784Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:24.688593Z",
         "latest_known_availability": "available",
-        "observation_count": 44
+        "observation_count": 45
       }
     },
     {
@@ -206,14 +206,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН\n1-3 работни дни?\n100% Безплатна доставка\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:14.975487Z",
+      "observed_at_utc": "2026-10-24T09:33:25.216390Z",
       "history": {
         "previous_price_bgn": "1654.98",
         "historical_minimum_bgn": "1654.98",
         "first_observed_at_utc": "2026-10-19T10:49:12.300364Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:14.975487Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:25.216390Z",
         "latest_known_availability": "available",
-        "observation_count": 10
+        "observation_count": 11
       }
     },
     {
@@ -228,14 +228,14 @@
       "availability": "available",
       "raw_availability": "In stock\nenabled purchase action",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:27:48.705505Z",
+      "observed_at_utc": "2026-10-24T09:32:11.212778Z",
       "history": {
         "previous_price_bgn": "1657.21",
         "historical_minimum_bgn": "1652.62",
         "first_observed_at_utc": "2026-10-17T12:38:00.296856Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:48.705505Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:11.212778Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -250,14 +250,14 @@
       "availability": "available",
       "raw_availability": "Цена: 847,92 €\n На склад Код: 76598\nInStock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:00.649333Z",
+      "observed_at_utc": "2026-10-24T09:31:19.046253Z",
       "history": {
-        "previous_price_bgn": "1659.33",
+        "previous_price_bgn": "1658.39",
         "historical_minimum_bgn": "1564.27",
         "first_observed_at_utc": "2026-08-12T12:27:40.365047Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:00.649333Z",
+        "latest_observed_at_utc": "2026-10-24T09:31:19.046253Z",
         "latest_known_availability": "available",
-        "observation_count": 45
+        "observation_count": 46
       }
     },
     {
@@ -272,14 +272,14 @@
       "availability": "available",
       "raw_availability": "Цена: 848,64 €\n На склад Код: 81536\nInStock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:00.900352Z",
+      "observed_at_utc": "2026-10-24T09:31:19.513934Z",
       "history": {
-        "previous_price_bgn": "1660.26",
+        "previous_price_bgn": "1659.80",
         "historical_minimum_bgn": "1407.26",
         "first_observed_at_utc": "2026-08-06T09:40:06.630102Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:00.900352Z",
+        "latest_observed_at_utc": "2026-10-24T09:31:19.513934Z",
         "latest_known_availability": "available",
-        "observation_count": 68
+        "observation_count": 69
       }
     },
     {
@@ -294,14 +294,14 @@
       "availability": "available",
       "raw_availability": "Наличен в склад, поръчай онлайн или за магазин\nДоставка за 2.59€   !\nЗА ПОРЪЧКИ: 0700 20 810\nНаправи запитване ›\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:28:31.298328Z",
+      "observed_at_utc": "2026-10-24T09:32:46.844688Z",
       "history": {
         "previous_price_bgn": "1660.48",
         "historical_minimum_bgn": "1660.48",
         "first_observed_at_utc": "2026-10-17T12:39:02.127971Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:31.298328Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:46.844688Z",
         "latest_known_availability": "available",
-        "observation_count": 13
+        "observation_count": 14
       }
     },
     {
@@ -316,14 +316,14 @@
       "availability": "available",
       "raw_availability": "Цена: 849,84 €\n На склад Код: 46332\nInStock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:01.145850Z",
+      "observed_at_utc": "2026-10-24T09:31:19.755760Z",
       "history": {
         "previous_price_bgn": "1662.14",
         "historical_minimum_bgn": "1560.52",
         "first_observed_at_utc": "2026-08-19T05:45:26.271413Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:01.145850Z",
+        "latest_observed_at_utc": "2026-10-24T09:31:19.755760Z",
         "latest_known_availability": "available",
-        "observation_count": 29
+        "observation_count": 30
       }
     },
     {
@@ -338,14 +338,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:28:57.653786Z",
+      "observed_at_utc": "2026-10-24T09:33:05.811995Z",
       "history": {
         "previous_price_bgn": "1666.19",
         "historical_minimum_bgn": "1461.04",
         "first_observed_at_utc": "2026-08-07T20:36:01.633944Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:57.653786Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:05.811995Z",
         "latest_known_availability": "available",
-        "observation_count": 41
+        "observation_count": 42
       }
     },
     {
@@ -360,14 +360,14 @@
       "availability": "available",
       "raw_availability": "На склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:55.345190Z",
+      "observed_at_utc": "2026-10-24T09:34:02.612514Z",
       "history": {
         "previous_price_bgn": "1668.62",
         "historical_minimum_bgn": "1668.62",
         "first_observed_at_utc": "2026-10-17T12:40:49.810796Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:55.345190Z",
+        "latest_observed_at_utc": "2026-10-24T09:34:02.612514Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -382,14 +382,14 @@
       "availability": "available",
       "raw_availability": "In stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:52.641185Z",
+      "observed_at_utc": "2026-10-24T09:32:13.461702Z",
       "history": {
         "previous_price_bgn": "1670.38",
         "historical_minimum_bgn": "1670.38",
         "first_observed_at_utc": "2026-10-17T12:38:04.983315Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:52.641185Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:13.461702Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -404,14 +404,14 @@
       "availability": "available",
       "raw_availability": "Наличен в склад, поръчай онлайн или за магазин\nДоставка за 2.59€   !\nЗА ПОРЪЧКИ: 0700 20 810\nНаправи запитване ›\nIn stock",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:28:31.854754Z",
+      "observed_at_utc": "2026-10-24T09:32:47.267569Z",
       "history": {
         "previous_price_bgn": "1680.04",
         "historical_minimum_bgn": "1680.04",
         "first_observed_at_utc": "2026-10-19T21:33:15.005612Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:31.854754Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:47.267569Z",
         "latest_known_availability": "available",
-        "observation_count": 5
+        "observation_count": 6
       }
     },
     {
@@ -426,14 +426,14 @@
       "availability": "available",
       "raw_availability": "Цена: 859,44 €\n На склад Код: 81546\nInStock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:01.408056Z",
+      "observed_at_utc": "2026-10-24T09:31:19.980051Z",
       "history": {
         "previous_price_bgn": "1680.92",
         "historical_minimum_bgn": "1345.53",
         "first_observed_at_utc": "2026-08-06T09:40:06.343055Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:01.408056Z",
+        "latest_observed_at_utc": "2026-10-24T09:31:19.980051Z",
         "latest_known_availability": "available",
-        "observation_count": 20
+        "observation_count": 21
       }
     },
     {
@@ -448,14 +448,14 @@
       "availability": "available",
       "raw_availability": "Наличен в склад, поръчай онлайн или за магазин\nДоставка за 2.59€   !\nЗА ПОРЪЧКИ: 0700 20 810\nНаправи запитване ›\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:28:32.279097Z",
+      "observed_at_utc": "2026-10-24T09:32:47.720402Z",
       "history": {
         "previous_price_bgn": "1681.99",
         "historical_minimum_bgn": "1457.07",
         "first_observed_at_utc": "2026-08-12T12:29:59.151348Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:32.279097Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:47.720402Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -470,14 +470,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:28:58.677995Z",
+      "observed_at_utc": "2026-10-24T09:33:06.972012Z",
       "history": {
         "previous_price_bgn": "1682.46",
         "historical_minimum_bgn": "1359.26",
         "first_observed_at_utc": "2026-08-11T18:08:45.643773Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:58.677995Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:06.972012Z",
         "latest_known_availability": "available",
-        "observation_count": 17
+        "observation_count": 18
       }
     },
     {
@@ -492,14 +492,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:28:59.822850Z",
+      "observed_at_utc": "2026-10-24T09:33:08.027134Z",
       "history": {
         "previous_price_bgn": "1686.06",
         "historical_minimum_bgn": "1426.70",
         "first_observed_at_utc": "2026-08-07T20:36:00.599600Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:59.822850Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:08.027134Z",
         "latest_known_availability": "available",
-        "observation_count": 58
+        "observation_count": 59
       }
     },
     {
@@ -514,14 +514,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:00.743652Z",
+      "observed_at_utc": "2026-10-24T09:33:09.026952Z",
       "history": {
-        "previous_price_bgn": "1692.28",
+        "previous_price_bgn": "1691.38",
         "historical_minimum_bgn": "1579.08",
         "first_observed_at_utc": "2026-08-18T17:43:12.021504Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:00.743652Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:09.026952Z",
         "latest_known_availability": "available",
-        "observation_count": 30
+        "observation_count": 31
       }
     },
     {
@@ -536,14 +536,14 @@
       "availability": "available",
       "raw_availability": "\nProduct availability:\nНаличност: във външен склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:29:47.953375Z",
+      "observed_at_utc": "2026-10-24T09:33:57.869445Z",
       "history": {
         "previous_price_bgn": "1715.26",
         "historical_minimum_bgn": "1556.84",
         "first_observed_at_utc": "2026-08-07T20:36:48.888879Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:47.953375Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:57.869445Z",
         "latest_known_availability": "available",
-        "observation_count": 25
+        "observation_count": 26
       }
     },
     {
@@ -558,14 +558,14 @@
       "availability": "available",
       "raw_availability": "In stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:54.153451Z",
+      "observed_at_utc": "2026-10-24T09:32:14.345517Z",
       "history": {
-        "previous_price_bgn": null,
+        "previous_price_bgn": "1721.48",
         "historical_minimum_bgn": "1721.48",
         "first_observed_at_utc": "2026-10-23T20:27:54.153451Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:54.153451Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:14.345517Z",
         "latest_known_availability": "available",
-        "observation_count": 1
+        "observation_count": 2
       }
     },
     {
@@ -580,14 +580,14 @@
       "availability": "available",
       "raw_availability": "На склад - доставка от 1 до 3 работни дни\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:38.311499Z",
+      "observed_at_utc": "2026-10-24T09:33:47.855856Z",
       "history": {
-        "previous_price_bgn": "1724.28",
+        "previous_price_bgn": "1723.67",
         "historical_minimum_bgn": "1623.12",
         "first_observed_at_utc": "2026-08-12T18:09:13.796314Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:38.311499Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:47.855856Z",
         "latest_known_availability": "available",
-        "observation_count": 41
+        "observation_count": 42
       }
     },
     {
@@ -602,14 +602,14 @@
       "availability": "available",
       "raw_availability": "На склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:55.713547Z",
+      "observed_at_utc": "2026-10-24T09:34:03.455411Z",
       "history": {
         "previous_price_bgn": "1727.82",
         "historical_minimum_bgn": "1727.82",
         "first_observed_at_utc": "2026-10-17T12:40:52.068031Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:55.713547Z",
+        "latest_observed_at_utc": "2026-10-24T09:34:03.455411Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -624,14 +624,14 @@
       "availability": "available",
       "raw_availability": "Централен склад: В наличност\nIn stock\nenabled purchase action",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:30:09.960282Z",
+      "observed_at_utc": "2026-10-24T09:34:14.025281Z",
       "history": {
         "previous_price_bgn": "1728.95",
         "historical_minimum_bgn": "1527.50",
         "first_observed_at_utc": "2026-08-07T20:37:00.087245Z",
-        "latest_observed_at_utc": "2026-10-23T20:30:09.960282Z",
+        "latest_observed_at_utc": "2026-10-24T09:34:14.025281Z",
         "latest_known_availability": "available",
-        "observation_count": 38
+        "observation_count": 39
       }
     },
     {
@@ -646,14 +646,14 @@
       "availability": "available",
       "raw_availability": "In stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:54.517479Z",
+      "observed_at_utc": "2026-10-24T09:32:15.290526Z",
       "history": {
         "previous_price_bgn": "1729.62",
         "historical_minimum_bgn": "1729.62",
         "first_observed_at_utc": "2026-10-17T12:38:08.407941Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:54.517479Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:15.290526Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -668,14 +668,14 @@
       "availability": "available",
       "raw_availability": "На склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:56.044039Z",
+      "observed_at_utc": "2026-10-24T09:34:04.428795Z",
       "history": {
-        "previous_price_bgn": null,
+        "previous_price_bgn": "1730.58",
         "historical_minimum_bgn": "1730.58",
         "first_observed_at_utc": "2026-10-23T20:29:56.044039Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:56.044039Z",
+        "latest_observed_at_utc": "2026-10-24T09:34:04.428795Z",
         "latest_known_availability": "available",
-        "observation_count": 1
+        "observation_count": 2
       }
     },
     {
@@ -690,14 +690,14 @@
       "availability": "available",
       "raw_availability": "\nProduct availability:\nНаличност: във външен склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:46.333220Z",
+      "observed_at_utc": "2026-10-24T09:33:56.158692Z",
       "history": {
         "previous_price_bgn": "1736.78",
         "historical_minimum_bgn": "1521.64",
         "first_observed_at_utc": "2026-08-07T20:36:48.284293Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:46.333220Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:56.158692Z",
         "latest_known_availability": "available",
-        "observation_count": 52
+        "observation_count": 53
       }
     },
     {
@@ -712,14 +712,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock\nenabled purchase action",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:27:42.836589Z",
+      "observed_at_utc": "2026-10-24T09:32:03.234472Z",
       "history": {
         "previous_price_bgn": "1738.73",
         "historical_minimum_bgn": "1734.82",
         "first_observed_at_utc": "2026-10-17T12:37:42.851750Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:42.836589Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:03.234472Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -734,14 +734,14 @@
       "availability": "available",
       "raw_availability": "Налично\nIn stock\nenabled purchase action",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:29:42.124422Z",
+      "observed_at_utc": "2026-10-24T09:33:51.780462Z",
       "history": {
         "previous_price_bgn": "1738.73",
         "historical_minimum_bgn": "1582.27",
         "first_observed_at_utc": "2026-08-08T16:24:13.632381Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:42.124422Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:51.780462Z",
         "latest_known_availability": "available",
-        "observation_count": 35
+        "observation_count": 36
       }
     },
     {
@@ -756,14 +756,14 @@
       "availability": "available",
       "raw_availability": "На склад - доставка от 1 до 3 работни дни\nIn stock\nenabled purchase action",
       "is_ventus_2x": true,
-      "observed_at_utc": "2026-10-23T20:29:38.771435Z",
+      "observed_at_utc": "2026-10-24T09:33:48.379530Z",
       "history": {
-        "previous_price_bgn": "1734.45",
+        "previous_price_bgn": "1739.32",
         "historical_minimum_bgn": "1671.06",
         "first_observed_at_utc": "2026-08-07T20:36:37.163064Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:38.771435Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:48.379530Z",
         "latest_known_availability": "available",
-        "observation_count": 37
+        "observation_count": 38
       }
     },
     {
@@ -778,14 +778,14 @@
       "availability": "available",
       "raw_availability": "Ограничено количество\nhttp://schema.org/LimitedAvailability\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:43.713930Z",
+      "observed_at_utc": "2026-10-24T09:32:04.187910Z",
       "history": {
         "previous_price_bgn": "1740.69",
         "historical_minimum_bgn": "1736.78",
         "first_observed_at_utc": "2026-10-17T12:37:52.989076Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:43.713930Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:04.187910Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -800,14 +800,14 @@
       "availability": "available",
       "raw_availability": "Централен склад: Само 3 остават на склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:30:21.358400Z",
+      "observed_at_utc": "2026-10-24T09:34:25.012096Z",
       "history": {
         "previous_price_bgn": "1740.69",
         "historical_minimum_bgn": "1740.69",
         "first_observed_at_utc": "2026-10-17T12:41:17.453261Z",
-        "latest_observed_at_utc": "2026-10-23T20:30:21.358400Z",
+        "latest_observed_at_utc": "2026-10-24T09:34:25.012096Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -822,14 +822,14 @@
       "availability": "available",
       "raw_availability": "На склад - доставка от 1 до 3 работни дни\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:39.211813Z",
+      "observed_at_utc": "2026-10-24T09:33:48.836903Z",
       "history": {
-        "previous_price_bgn": "1736.05",
+        "previous_price_bgn": "1740.94",
         "historical_minimum_bgn": "1459.13",
         "first_observed_at_utc": "2026-08-07T20:36:36.341903Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:39.211813Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:48.836903Z",
         "latest_known_availability": "available",
-        "observation_count": 54
+        "observation_count": 55
       }
     },
     {
@@ -844,14 +844,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:19.758665Z",
+      "observed_at_utc": "2026-10-24T09:31:39.755367Z",
       "history": {
         "previous_price_bgn": "1741.59",
         "historical_minimum_bgn": "1689.84",
         "first_observed_at_utc": "2026-08-12T18:06:31.706532Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:19.758665Z",
+        "latest_observed_at_utc": "2026-10-24T09:31:39.755367Z",
         "latest_known_availability": "available",
-        "observation_count": 41
+        "observation_count": 42
       }
     },
     {
@@ -866,14 +866,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:19.142101Z",
+      "observed_at_utc": "2026-10-24T09:31:39.155464Z",
       "history": {
         "previous_price_bgn": "1745.38",
         "historical_minimum_bgn": "1519.68",
         "first_observed_at_utc": "2026-08-06T12:56:08.107528Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:19.142101Z",
+        "latest_observed_at_utc": "2026-10-24T09:31:39.155464Z",
         "latest_known_availability": "available",
-        "observation_count": 62
+        "observation_count": 63
       }
     },
     {
@@ -888,14 +888,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧНО В ЦЕНТРАЛЕН СКЛАД",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:28:54.357381Z",
+      "observed_at_utc": "2026-10-24T09:33:02.416045Z",
       "history": {
         "previous_price_bgn": "1746.56",
         "historical_minimum_bgn": "1656.59",
         "first_observed_at_utc": "2026-08-19T17:40:48.703397Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:54.357381Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:02.416045Z",
         "latest_known_availability": "available",
-        "observation_count": 21
+        "observation_count": 22
       }
     },
     {
@@ -910,14 +910,14 @@
       "availability": "available",
       "raw_availability": "Централен склад: В наличност\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:30:16.474801Z",
+      "observed_at_utc": "2026-10-24T09:34:20.120563Z",
       "history": {
         "previous_price_bgn": "1748.51",
         "historical_minimum_bgn": "1374.95",
         "first_observed_at_utc": "2026-08-07T20:37:03.730677Z",
-        "latest_observed_at_utc": "2026-10-23T20:30:16.474801Z",
+        "latest_observed_at_utc": "2026-10-24T09:34:20.120563Z",
         "latest_known_availability": "available",
-        "observation_count": 52
+        "observation_count": 53
       }
     },
     {
@@ -932,14 +932,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:20.268362Z",
+      "observed_at_utc": "2026-10-24T09:31:40.240505Z",
       "history": {
         "previous_price_bgn": "1749.18",
         "historical_minimum_bgn": "1683.97",
         "first_observed_at_utc": "2026-08-19T05:45:38.936578Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:20.268362Z",
+        "latest_observed_at_utc": "2026-10-24T09:31:40.240505Z",
         "latest_known_availability": "available",
-        "observation_count": 29
+        "observation_count": 30
       }
     },
     {
@@ -954,14 +954,14 @@
       "availability": "available",
       "raw_availability": "Централен склад: В наличност\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:30:18.043580Z",
+      "observed_at_utc": "2026-10-24T09:34:21.751335Z",
       "history": {
         "previous_price_bgn": "1752.42",
         "historical_minimum_bgn": "1752.42",
         "first_observed_at_utc": "2026-10-17T12:41:14.618132Z",
-        "latest_observed_at_utc": "2026-10-23T20:30:18.043580Z",
+        "latest_observed_at_utc": "2026-10-24T09:34:21.751335Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -976,14 +976,14 @@
       "availability": "available",
       "raw_availability": "На склад - доставка от 1 до 3 работни дни\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:39.726416Z",
+      "observed_at_utc": "2026-10-24T09:33:49.366092Z",
       "history": {
         "previous_price_bgn": "1754.48",
         "historical_minimum_bgn": "1392.67",
         "first_observed_at_utc": "2026-08-12T12:31:26.291540Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:39.726416Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:49.366092Z",
         "latest_known_availability": "available",
-        "observation_count": 16
+        "observation_count": 17
       }
     },
     {
@@ -998,14 +998,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧЕН\n1 седмица?\n100% Безплатна доставка\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:15.387388Z",
+      "observed_at_utc": "2026-10-24T09:33:25.790426Z",
       "history": {
         "previous_price_bgn": "1756.98",
         "historical_minimum_bgn": "1108.00",
         "first_observed_at_utc": "2026-08-07T20:36:05.565458Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:15.387388Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:25.790426Z",
         "latest_known_availability": "available",
-        "observation_count": 21
+        "observation_count": 22
       }
     },
     {
@@ -1020,14 +1020,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:21.859740Z",
+      "observed_at_utc": "2026-10-24T09:31:41.798394Z",
       "history": {
         "previous_price_bgn": "1758.29",
         "historical_minimum_bgn": "1425.80",
         "first_observed_at_utc": "2026-08-06T12:56:11.289893Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:21.859740Z",
+        "latest_observed_at_utc": "2026-10-24T09:31:41.798394Z",
         "latest_known_availability": "available",
-        "observation_count": 11
+        "observation_count": 12
       }
     },
     {
@@ -1042,14 +1042,14 @@
       "availability": "available",
       "raw_availability": "наличен\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:06.322640Z",
+      "observed_at_utc": "2026-10-24T09:33:16.290864Z",
       "history": {
         "previous_price_bgn": "1758.29",
         "historical_minimum_bgn": "1758.29",
         "first_observed_at_utc": "2026-10-17T12:39:43.327822Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:06.322640Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:16.290864Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -1064,14 +1064,14 @@
       "availability": "available",
       "raw_availability": "Налично\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:42.878037Z",
+      "observed_at_utc": "2026-10-24T09:33:52.662786Z",
       "history": {
         "previous_price_bgn": "1758.29",
         "historical_minimum_bgn": "1543.15",
         "first_observed_at_utc": "2026-08-08T16:24:12.711755Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:42.878037Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:52.662786Z",
         "latest_known_availability": "available",
-        "observation_count": 52
+        "observation_count": 53
       }
     },
     {
@@ -1086,14 +1086,14 @@
       "availability": "available",
       "raw_availability": "НАЛИЧНО В ЦЕНТРАЛЕН СКЛАД",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:28:55.110235Z",
+      "observed_at_utc": "2026-10-24T09:33:03.110726Z",
       "history": {
-        "previous_price_bgn": "1764.16",
+        "previous_price_bgn": "1766.11",
         "historical_minimum_bgn": "1660.50",
         "first_observed_at_utc": "2026-08-12T13:38:30.520179Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:55.110235Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:03.110726Z",
         "latest_known_availability": "available",
-        "observation_count": 44
+        "observation_count": 45
       }
     },
     {
@@ -1108,14 +1108,14 @@
       "availability": "available",
       "raw_availability": "Налично\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:43.703513Z",
+      "observed_at_utc": "2026-10-24T09:33:53.560077Z",
       "history": {
         "previous_price_bgn": "1777.85",
         "historical_minimum_bgn": "1347.57",
         "first_observed_at_utc": "2026-08-08T16:24:11.777279Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:43.703513Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:53.560077Z",
         "latest_known_availability": "available",
-        "observation_count": 42
+        "observation_count": 43
       }
     },
     {
@@ -1130,14 +1130,14 @@
       "availability": "available",
       "raw_availability": "\nProduct availability:\nНаличност: във външен склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:48.861159Z",
+      "observed_at_utc": "2026-10-24T09:33:58.743842Z",
       "history": {
-        "previous_price_bgn": "1803.28",
+        "previous_price_bgn": "1805.23",
         "historical_minimum_bgn": "1683.97",
         "first_observed_at_utc": "2026-08-18T17:44:16.488117Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:48.861159Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:58.743842Z",
         "latest_known_availability": "available",
-        "observation_count": 20
+        "observation_count": 21
       }
     },
     {
@@ -1152,14 +1152,14 @@
       "availability": "available",
       "raw_availability": "В наличност\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:27:44.103344Z",
+      "observed_at_utc": "2026-10-24T09:32:08.334273Z",
       "history": {
         "previous_price_bgn": "1809.14",
         "historical_minimum_bgn": "1803.28",
         "first_observed_at_utc": "2026-10-21T20:38:38.461838Z",
-        "latest_observed_at_utc": "2026-10-23T20:27:44.103344Z",
+        "latest_observed_at_utc": "2026-10-24T09:32:08.334273Z",
         "latest_known_availability": "available",
-        "observation_count": 5
+        "observation_count": 6
       }
     },
     {
@@ -1174,14 +1174,14 @@
       "availability": "available",
       "raw_availability": "КУПИ ОНЛАЙН\nПолучаване в магазина",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:28.944764Z",
+      "observed_at_utc": "2026-10-24T09:33:37.871519Z",
       "history": {
         "previous_price_bgn": "1816.97",
         "historical_minimum_bgn": "1367.13",
         "first_observed_at_utc": "2026-08-05T20:02:13.488200Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:28.944764Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:37.871519Z",
         "latest_known_availability": "available",
-        "observation_count": 71
+        "observation_count": 72
       }
     },
     {
@@ -1196,14 +1196,14 @@
       "availability": "available",
       "raw_availability": "Налично\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:44.472120Z",
+      "observed_at_utc": "2026-10-24T09:33:54.282753Z",
       "history": {
         "previous_price_bgn": "1816.97",
         "historical_minimum_bgn": "1699.62",
         "first_observed_at_utc": "2026-08-12T18:09:35.299707Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:44.472120Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:54.282753Z",
         "latest_known_availability": "available",
-        "observation_count": 28
+        "observation_count": 29
       }
     },
     {
@@ -1218,36 +1218,14 @@
       "availability": "available",
       "raw_availability": "наличен\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:08.928452Z",
+      "observed_at_utc": "2026-10-24T09:33:19.636487Z",
       "history": {
         "previous_price_bgn": "1820.66",
         "historical_minimum_bgn": "1820.66",
         "first_observed_at_utc": "2026-10-17T12:39:45.534804Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:08.928452Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:19.636487Z",
         "latest_known_availability": "available",
-        "observation_count": 15
-      }
-    },
-    {
-      "retailer_id": "pro-bg",
-      "retailer_name": "PRO-BG",
-      "product_key": "pro-bg:sku:n506t2-16d7-191073n",
-      "title": "RTX 5060 TI 16GB Inno 3DTwin X2 16GB GDDR7",
-      "product_url": "https://www.pro-bg.com/product/Videocard/Inno3D-Inno3D-RTX5060-TI-Twin-X2-16GB-GDDR7-HDMI-3xDP_367869.html",
-      "sku": "N506T2-16D7-191073N",
-      "price_bgn": "1898.15",
-      "raw_price": "1898.15 лв.\n970.51 €\n\n\nКупи с\nЦена с включена доставка!",
-      "availability": "available",
-      "raw_availability": "външен склад\nДоставяме продукта от 2 до 5 дни след заявка!",
-      "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:28:50.786497Z",
-      "history": {
-        "previous_price_bgn": "1898.15",
-        "historical_minimum_bgn": "1898.15",
-        "first_observed_at_utc": "2026-10-17T12:39:18.310680Z",
-        "latest_observed_at_utc": "2026-10-23T20:28:50.786497Z",
-        "latest_known_availability": "available",
-        "observation_count": 10
+        "observation_count": 16
       }
     },
     {
@@ -1262,14 +1240,14 @@
       "availability": "available",
       "raw_availability": "\nProduct availability:\nНаличност: във външен склад\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:47.076137Z",
+      "observed_at_utc": "2026-10-24T09:33:56.969938Z",
       "history": {
         "previous_price_bgn": "1926.49",
         "historical_minimum_bgn": "1926.49",
         "first_observed_at_utc": "2026-10-17T12:40:43.330541Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:47.076137Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:56.969938Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     },
     {
@@ -1284,14 +1262,14 @@
       "availability": "available",
       "raw_availability": "ограничена наличност (до 3 бр.)\nIn stock\nenabled purchase action",
       "is_ventus_2x": false,
-      "observed_at_utc": "2026-10-23T20:29:11.504857Z",
+      "observed_at_utc": "2026-10-24T09:33:23.156796Z",
       "history": {
         "previous_price_bgn": "1955.44",
         "historical_minimum_bgn": "1955.44",
         "first_observed_at_utc": "2026-10-17T12:39:48.128312Z",
-        "latest_observed_at_utc": "2026-10-23T20:29:11.504857Z",
+        "latest_observed_at_utc": "2026-10-24T09:33:23.156796Z",
         "latest_known_availability": "available",
-        "observation_count": 15
+        "observation_count": 16
       }
     }
   ],
@@ -1302,11 +1280,11 @@
       "status": "failed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 1,
-      "duration_seconds": "55.332373",
+      "duration_seconds": "56.657409",
       "failure_code": "unresolved_cheaper_candidate",
       "failure_message": "Could not validate listing position 1: Allstore product page did not expose one graphics-engine row",
       "last_successful_scan_at_utc": "2026-08-25T17:45:01.154418Z",
-      "consecutive_comparable_failures": 15,
+      "consecutive_comparable_failures": 16,
       "needs_diagnosis": true
     },
     {
@@ -1315,7 +1293,7 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.172357",
+      "duration_seconds": "0.178977",
       "failure_code": "blocked_access_denied",
       "failure_message": "HTTP 403",
       "last_successful_scan_at_utc": null,
@@ -1328,7 +1306,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "1.709883",
+      "duration_seconds": "2.132333",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1341,11 +1319,11 @@
       "status": "failed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 4,
-      "duration_seconds": "13.062619",
+      "duration_seconds": "14.134409",
       "failure_code": "unresolved_cheaper_candidate",
       "failure_message": "Could not validate listing position 4: Datacom product page did not expose exactly one Product/Offer pair bound to the candidate name and final URL",
       "last_successful_scan_at_utc": "2026-08-14T06:42:04.591827Z",
-      "consecutive_comparable_failures": 38,
+      "consecutive_comparable_failures": 39,
       "needs_diagnosis": true
     },
     {
@@ -1354,7 +1332,7 @@
       "status": "completed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "2.417252",
+      "duration_seconds": "2.462368",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1367,7 +1345,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 16,
-      "duration_seconds": "9.802191",
+      "duration_seconds": "9.947784",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1380,7 +1358,7 @@
       "status": "completed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "1.742454",
+      "duration_seconds": "3.067242",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1393,7 +1371,7 @@
       "status": "completed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.410398",
+      "duration_seconds": "0.393328",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1406,11 +1384,11 @@
       "status": "failed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.857554",
+      "duration_seconds": "1.156448",
       "failure_code": "listing_extraction_unhealthy",
       "failure_message": "JMT listing contained zero cards without its explicit empty-result marker",
       "last_successful_scan_at_utc": "2026-08-25T17:45:29.972369Z",
-      "consecutive_comparable_failures": 15,
+      "consecutive_comparable_failures": 16,
       "needs_diagnosis": true
     },
     {
@@ -1419,11 +1397,11 @@
       "status": "failed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.633255",
+      "duration_seconds": "0.710374",
       "failure_code": "listing_extraction_unhealthy",
       "failure_message": "Megamag listing contained zero visible cards without its exact empty notice",
       "last_successful_scan_at_utc": "2026-08-25T17:45:34.563169Z",
-      "consecutive_comparable_failures": 15,
+      "consecutive_comparable_failures": 16,
       "needs_diagnosis": true
     },
     {
@@ -1432,7 +1410,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 13,
-      "duration_seconds": "13.712968",
+      "duration_seconds": "16.424084",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1444,8 +1422,8 @@
       "retailer_name": "Optimal Computers",
       "status": "completed",
       "accepted_offer_count": 4,
-      "candidates_reviewed": 7,
-      "duration_seconds": "14.168468",
+      "candidates_reviewed": 5,
+      "duration_seconds": "6.943781",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1458,11 +1436,11 @@
       "status": "failed",
       "accepted_offer_count": 0,
       "candidates_reviewed": 10,
-      "duration_seconds": "30.56611",
+      "duration_seconds": "29.076795",
       "failure_code": "unresolved_cheaper_candidate",
       "failure_message": "Could not validate listing position 10: Ozone product page did not expose exactly one Product/Offer binding for its visible heading and page URL",
       "last_successful_scan_at_utc": "2026-08-25T17:46:09.208826Z",
-      "consecutive_comparable_failures": 15,
+      "consecutive_comparable_failures": 16,
       "needs_diagnosis": true
     },
     {
@@ -1471,7 +1449,7 @@
       "status": "blocked",
       "accepted_offer_count": 0,
       "candidates_reviewed": 0,
-      "duration_seconds": "0.244724",
+      "duration_seconds": "0.221418",
       "failure_code": "blocked_access_denied",
       "failure_message": "HTTP 403",
       "last_successful_scan_at_utc": "2026-08-22T05:41:37.913030Z",
@@ -1484,7 +1462,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "3.162755",
+      "duration_seconds": "3.106661",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1495,9 +1473,9 @@
       "retailer_id": "pro-bg",
       "retailer_name": "PRO-BG",
       "status": "completed",
-      "accepted_offer_count": 1,
-      "candidates_reviewed": 12,
-      "duration_seconds": "18.495884",
+      "accepted_offer_count": 0,
+      "candidates_reviewed": 3,
+      "duration_seconds": "11.112383",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1510,7 +1488,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 4,
-      "duration_seconds": "4.309058",
+      "duration_seconds": "4.246424",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1523,7 +1501,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "5.62245",
+      "duration_seconds": "5.903934",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1536,7 +1514,7 @@
       "status": "completed",
       "accepted_offer_count": 3,
       "candidates_reviewed": 3,
-      "duration_seconds": "10.746958",
+      "duration_seconds": "14.114666",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1549,7 +1527,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "3.869982",
+      "duration_seconds": "2.621451",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1561,12 +1539,12 @@
       "retailer_name": "Xtreme",
       "status": "failed",
       "accepted_offer_count": 0,
-      "candidates_reviewed": 10,
-      "duration_seconds": "5.624871",
+      "candidates_reviewed": 8,
+      "duration_seconds": "4.979324",
       "failure_code": "unresolved_cheaper_candidate",
-      "failure_message": "Could not validate listing position 10: Xtreme product page did not expose one visible external-supplier status",
+      "failure_message": "Could not validate listing position 8: Xtreme product page did not expose one visible external-supplier status",
       "last_successful_scan_at_utc": "2026-08-25T17:46:45.206223Z",
-      "consecutive_comparable_failures": 15,
+      "consecutive_comparable_failures": 16,
       "needs_diagnosis": true
     },
     {
@@ -1575,7 +1553,7 @@
       "status": "completed",
       "accepted_offer_count": 2,
       "candidates_reviewed": 3,
-      "duration_seconds": "15.398267",
+      "duration_seconds": "15.086762",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1588,7 +1566,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "3.288657",
+      "duration_seconds": "3.482274",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1601,7 +1579,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "4.734706",
+      "duration_seconds": "4.905657",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1614,7 +1592,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 4,
-      "duration_seconds": "4.372843",
+      "duration_seconds": "4.446831",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1626,8 +1604,8 @@
       "retailer_name": "eZona",
       "status": "completed",
       "accepted_offer_count": 4,
-      "candidates_reviewed": 7,
-      "duration_seconds": "9.564904",
+      "candidates_reviewed": 5,
+      "duration_seconds": "5.672953",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
@@ -1640,7 +1618,7 @@
       "status": "completed",
       "accepted_offer_count": 4,
       "candidates_reviewed": 16,
-      "duration_seconds": "30.972437",
+      "duration_seconds": "28.361335",
       "failure_code": null,
       "failure_message": null,
       "last_successful_scan_at_utc": null,
